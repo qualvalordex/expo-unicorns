@@ -1,8 +1,10 @@
 {
   "expo": {
     "name": "Unicórnios",
+    "owner": "qualvalordex",
     "slug": "ExpoUnicorns",
-    "version": "1.0.0",
+    "description": "Projeto desenvolvido com fins educacionais e para ajudar os amigos que não sabem inglês a jogarem o jogo Unstable Unicorns. Apresenta as traduções PT-BR das cartas do jogo.",
+    "version": "0.0.1",
     "orientation": "portrait",
     "platforms":[
       "android"
