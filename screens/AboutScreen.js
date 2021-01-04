@@ -6,62 +6,50 @@ import SharedStyles from '../styles/shared-styles'
 
 export default function AboutScreen({ navigation, route }) {
     return(
-        <SafeAreaView style={SharedStyles.container}>
-            <ImageBackground
-                source={require('../assets/bg_menu.png')}
-                style={SharedStyles.backgroundImage}
-            >
-                <View style={SharedStyles.backgroundMask}>
-                    <View style={SharedStyles.content}>
-                        <View style={styles.header}>
-                            <Text style={SharedStyles.defaultTitle}>
-                                SOBRE
-                            </Text>
-                        </View>
-                        <View style={styles.body}>
-                            <View style={styles.informationContainer}>
-                                <View style={styles.subtitleContainer}>
-                                    <Text style={SharedStyles.defaultSubtitle}>
-                                        DESENVOLVIMENTO
-                                    </Text>
-                                </View>
-                                <Text style={[SharedStyles.screenText, { padding:5 }]}>
-                                    PAULO HENRIQUE RODRIGUES
-                                </Text>
-                            </View>
-                            <View style={styles.informationContainer}>
-                                <View style={styles.subtitleContainer}>
-                                    <Text style={SharedStyles.defaultSubtitle}>
-                                        REPORTAR BUGS
-                                    </Text>
-                                </View>
-                                <View style={styles.contactLine}>
-                                    <Image 
-                                        style={[styles.contactIcon, { marginHorizontal:5 }]}
-                                        source={require('../assets/ico_mail.png')}
-                                    />
-                                    <Text style={[SharedStyles.screenText, { marginHorizontal:5 }]}>
-                                        qualvalordex@gmail.com
-                                    </Text>
-                                </View>
-                                <View style={styles.contactLine}>
-                                    <Image 
-                                        style={[styles.contactIcon, { marginHorizontal:5 }]}
-                                        source={require('../assets/ico_github.png')}
-                                    />
-                                    <Text style={[SharedStyles.screenText, { marginHorizontal:5 }]}>
-                                        https://github.com/qualvalordex
-                                    </Text>
-                                </View>
-                            </View>
-                            <CustomButton value='VOLTAR'
-                                onPress={ () => navigation.pop() }
-                            />
-                        </View>
+        <ImageBackground
+            source={require('../assets/bg_menu.png')}
+            style={SharedStyles.backgroundImage}
+        >
+            <View style={SharedStyles.container}>
+                
+                <View style={SharedStyles.header}>
+                    <Text style={SharedStyles.defaultTitle}>
+                        SOBRE
+                    </Text>
+                </View>
+                
+                <View style={SharedStyles.body}>
+                    <Text style={SharedStyles.defaultSubtitle}>
+                        REPORTAR BUGS
+                    </Text>
+                    <View style={styles.contactLine}>
+                        <Image 
+                            style={[styles.contactIcon, { marginHorizontal:5 }]}
+                            source={require('../assets/ico_mail.png')}
+                        />
+                        <Text style={[SharedStyles.screenText, { marginHorizontal:5 }]}>
+                            qualvalordex@gmail.com
+                        </Text>
+                    </View>
+                    <View style={styles.contactLine}>
+                        <Image 
+                            style={[styles.contactIcon, { marginHorizontal:5 }]}
+                            source={require('../assets/ico_github.png')}
+                        />
+                        <Text style={[SharedStyles.screenText, { marginHorizontal:5 }]}>
+                            https://github.com/qualvalordex
+                        </Text>
                     </View>
                 </View>
-            </ImageBackground>
-        </SafeAreaView>
+                
+                <View style={SharedStyles.footer}>
+                    <CustomButton value='VOLTAR'
+                        onPress={ () => navigation.pop() }
+                    />
+                </View>
+                
+            </View>
+        </ImageBackground>
     );
 };
 
