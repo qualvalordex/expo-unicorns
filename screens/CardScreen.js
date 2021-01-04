@@ -1,5 +1,5 @@
 import React from 'react';
-import { SafeAreaView, View, Text, ImageBackground, StyleSheet, Image } from 'react-native';
+import { View, Text, ImageBackground, StyleSheet, Image, ScrollView } from 'react-native';
 
 import SharedStyles from '../styles/shared-styles'
 
@@ -21,16 +21,18 @@ export default function CardScreen({ navigation, route }) {
                     </Text>
                 </View>
                 
-                <View style={[SharedStyles.body, { flex: 4, justifyContent:null }]}>
+                <View style={SharedStyles.body}>
                     <Image
                         source={getCardImage(route.params.card_id)}
                         style={styles.cardImage}
                     />
                     <Text style={[SharedStyles.defaultSubtitle, { marginTop: 10 }]}>EFEITO</Text>
                     <View style={styles.translation}>
-                        <Text style={[SharedStyles.screenText, {lineHeight:30, textAlign:'justify'}]}>
-                            { route.params.card_effect }
-                        </Text>
+                        <ScrollView style={{ height: 100 }}>
+                            <Text style={[SharedStyles.screenText, {lineHeight:30, textAlign:'justify'}]}>
+                                { route.params.card_effect }
+                            </Text>
+                        </ScrollView>
                     </View>
                 </View>
                 
@@ -47,7 +49,7 @@ export default function CardScreen({ navigation, route }) {
 
 const styles = StyleSheet.create({
     cardImage:{
-        height:'50%',
+        height:'55%',
         resizeMode:'contain'
     },
     translation:{
