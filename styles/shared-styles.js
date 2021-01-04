@@ -1,24 +1,36 @@
 import { StyleSheet } from 'react-native'
 
 export default StyleSheet.create({
-    container:{
-        width:'100%',
-        height:'100%'
-    },
     backgroundImage:{
-        width:'100%',
-        height:'100%'
+        flex: 1
     },
-    backgroundMask:{
-        width:'100%',
-        height:'100%',
+    container:{
+        flex: 1,
+        flexDirection: 'column',
         backgroundColor:'#FFFFFFAA',
         alignItems:'center',
         justifyContent:'center'
     },
-    content:{
-        width:'90%',
-        height:'90%',
+    header:{
+        flex: 1,
+        flexDirection:'row',
+        alignItems:'center',
+        justifyContent:'center',
+        width: '100%'
+    },
+    body: {
+        flex: 2,
+        flexDirection:'column',
+        alignItems: 'center',
+        justifyContent: 'center',
+        width:'100%'
+    },
+    footer: {
+        flex: 1,
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'center',
+        width: '100%'
     },
     defaultTitle: {
         fontFamily:'OstrichSans',
