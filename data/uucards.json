@@ -1,758 +1,932 @@
 [
- {
-   "card_id": 1,
-   "card_name": "Baby Narwhal",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_narwhal.png",
-   "card_uri": "https://i.imgur.com/jSPrz3p.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 2,
-   "card_name": "Baby Unicorn (Black)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_black.png",
-   "card_uri": "https://i.imgur.com/ZzIHQRX.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 3,
-   "card_name": "Baby Unicorn (Blue)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_blue.png",
-   "card_uri": "https://i.imgur.com/901WCla.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 4,
-   "card_name": "Baby Unicorn (Brown)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_brown.png",
-   "card_uri": "https://i.imgur.com/bOrw5fO.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 5,
-   "card_name": "Baby Unicorn (Death)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_death.png",
-   "card_uri": "https://i.imgur.com/UnzKPUE.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 6,
-   "card_name": "Baby Unicorn (Green)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_green.png",
-   "card_uri": "https://i.imgur.com/WNd3aI3.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 7,
-   "card_name": "Baby Unicorn (Orange)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_orange.png",
-   "card_uri": "https://i.imgur.com/v2fUkMR.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 8,
-   "card_name": "Baby Unicorn (Pink)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_pink.png",
-   "card_uri": "https://i.imgur.com/uctS6pV.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 9,
-   "card_name": "Baby Unicorn (Purple)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_purple.png",
-   "card_uri": "https://i.imgur.com/peWjN1v.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 10,
-   "card_name": "Baby Unicorn (Rainbow)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_rainbow.png",
-   "card_uri": "https://i.imgur.com/lLJq2a7.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 11,
-   "card_name": "Baby Unicorn (Red)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_red.png",
-   "card_uri": "https://i.imgur.com/TGCUyvA.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 12,
-   "card_name": "Baby Unicorn (Yellow)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_yellow.png",
-   "card_uri": "https://i.imgur.com/0peg3Iu.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 13,
-   "card_name": "Baby Unicorn (White)",
-   "card_type": "Unicórnio Bebê",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_white.png",
-   "card_uri": "https://i.imgur.com/XzhLpmD.png",
-   "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
- },
- {
-   "card_id": 14,
-   "card_name": "Basic Unicorn (Blue)",
-   "card_type": "Unicórnio Básico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_blue.png",
-   "card_uri": "https://i.imgur.com/UDtS0lr.png",
-   "card_effect": "Sem efeitos especiais."
- },
- {
-   "card_id": 15,
-   "card_name": "Basic Unicorn (Green)",
-   "card_type": "Unicórnio Básico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_green.png",
-   "card_uri": "https://i.imgur.com/apZ4VG0.png",
-   "card_effect": "Sem efeitos especiais."
- },
- {
-   "card_id": 16,
-   "card_name": "Basic Unicorn (Indigo)",
-   "card_type": "Unicórnio Básico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_indigo.png",
-   "card_uri": "https://i.imgur.com/qiuXLQS.png",
-   "card_effect": "Sem efeitos especiais."
- },
- {
-   "card_id": 17,
-   "card_name": "Basic Unicorn (Orange)",
-   "card_type": "Unicórnio Básico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_orange.png",
-   "card_uri": "https://i.imgur.com/oSQVFQN.png",
-   "card_effect": "Sem efeitos especiais."
- },
- {
-   "card_id": 18,
-   "card_name": "Basic Unicorn (Purple)",
-   "card_type": "Unicórnio Básico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_purple.png",
-   "card_uri": "https://i.imgur.com/8aOHw3b.png",
-   "card_effect": "Sem efeitos especiais."
- },
- {
-   "card_id": 19,
-   "card_name": "Basic Unicorn (Red)",
-   "card_type": "Unicórnio Básico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_red.png",
-   "card_uri": "https://i.imgur.com/D7VWtbk.png",
-   "card_effect": "Sem efeitos especiais."
- },
- {
-   "card_id": 20,
-   "card_name": "Basic Unicorn (Yellow)",
-   "card_type": "Unicórnio Básico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_yellow.png",
-   "card_uri": "https://i.imgur.com/Cg5qs9n.png",
-   "card_effect": "Sem efeitos especiais."
- },
- {
-   "card_id": 21,
-   "card_name": "Basic Narwhal",
-   "card_type": "Unicórnio Básico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/basic_unicorn/basic_narwhal.png",
-   "card_uri": "https://i.imgur.com/tUwPJM4.png",
-   "card_effect": "Sem efeitos especiais."
- },
- {
-   "card_id": 22,
-   "card_name": "Alluring Narwhal",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/alluring_narwhal.png",
-   "card_uri": "https://i.imgur.com/9oJ09bk.png",
-   "card_effect": "Quanto esta carta entra no seu estábulo, você PODE roubar uma carta de encantamento."
- },
- {
-   "card_id": 23,
-   "card_name": "Americorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/americorn.png",
-   "card_uri": "https://i.imgur.com/Txm3w7I.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE puxar uma carta aleatoriamente da mão de outro jogador."
- },
- {
-   "card_id": 24,
-   "card_name": "Angel Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/angel_unicorn.png",
-   "card_uri": "https://i.imgur.com/TrZ0nl3.png",
-   "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar esta carta. Se fizer isso, escolha uma carta de unicórnio da pilha de descarte e coloque-a diretamente no seu estábulo."
- },
- {
-   "card_id": 25,
-   "card_name": "Annoying Flying Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/annoying_flying_unicorn.png",
-   "card_uri": "https://i.imgur.com/gEvJ3nU.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE forçar outro jogador a descartar uma carta. Se Annoying Flying Unicorn for sacrificado ou destruído, retorne-o para sua mão."
- },
- {
-   "card_id": 26,
-   "card_name": "Black Knight Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/black_knight_unicorn.png",
-   "card_uri": "https://i.imgur.com/wALdDsm.png",
-   "card_effect": "Se uma carta de unicórnio no seu estábulo for destruída, você PODE sacrificar Black Knight Unicorn no lugar dela."
- },
- {
-   "card_id": 27,
-   "card_name": "Chainsaw Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/chainsaw_unicorn.png",
-   "card_uri": "https://i.imgur.com/EeFEFr9.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE destruir uma carta de encantamento ou sacrificar uma carta de maldição."
- },
- {
-   "card_id": 28,
-   "card_name": "Classy Narwhal",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/classy_narwhal.png",
-   "card_uri": "https://i.imgur.com/jKFeefX.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE procurar uma carta de encantamento na pilha de compra e adicioná-la na sua mão, depois embaralhe a pilha de compra."
- },
- {
-   "card_id": 29,
-   "card_name": "Extremely Destructive Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/extremely_destructive_unicorn.png",
-   "card_uri": "https://i.imgur.com/Y1om5uN.png",
-   "card_effect": "Quando esta carta entra no seu estábulho, cada jogador (incluindo você) DEVE sacrificar uma carta de unicórnio."
- },
- {
-   "card_id": 30,
-   "card_name": "Extremely Fertile Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/extremely_fertile_unicorn.png",
-   "card_uri": "https://i.imgur.com/FdF5RVx.png",
-   "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar uma carta. Se fizer isso, traga uma carta de Bebê Unicórnio da enfermaria diretamente para seu estábulo."
- },
- {
-   "card_id": 31,
-   "card_name": "Ginormous Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/ginormous_unicorn.png",
-   "card_uri": "https://i.imgur.com/KATbVBy.png",
-   "card_effect": "Esta carta conta por 2 unicórnios. Você não pode jogar nenhuma carta Neigh."
- },
- {
-   "card_id": 32,
-   "card_name": "Greedy Flying Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/greedy_flying_unicorn.png",
-   "card_uri": "https://i.imgur.com/ENqB6wm.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, compre uma carta. Se Greedy Flying Unicorn for sacrificado ou destruído, retorne-o para sua mão."
- },
- {
-   "card_id": 33,
-   "card_name": "Llamacorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/llamacorn.png",
-   "card_uri": "https://i.imgur.com/ieqHYCf.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, cada jogador (incluindo você) DEVE descartar uma carta."
- },
- {
-   "card_id": 34,
-   "card_name": "Magical Flying Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/magical_flying_unicorn.png",
-   "card_uri": "https://i.imgur.com/Wc95Yg8.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE pegar uma carta de mágica da pilha de descarte e colocá-la na sua mão. Se Magical Flying Unicorn for sacrificado ou destruído, retorne-o para a sua mão."
- },
- {
-   "card_id": 35,
-   "card_name": "Magical Kittencorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/magical_kittencorn.png",
-   "card_uri": "https://i.imgur.com/mIOXITN.png",
-   "card_effect": "Esta carta não pode ser destruída por cartas de mágica."
- },
- {
-   "card_id": 36,
-   "card_name": "Majestic Flying Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/majestic_flying_unicorn.png",
-   "card_uri": "https://i.imgur.com/EfjupR7.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE pegar uma carta de unicórnio da pilha de descarte e colocá-la na sua mão. Se Majestic Flying Unicorn for sacrificado ou destruído, retorne-o para a sua mão."
- },
- {
-   "card_id": 37,
-   "card_name": "Mermaid Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/mermaid_unicorn.png",
-   "card_uri": "https://i.imgur.com/G2TEMHf.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, retorne uma carta do estábulo de um outro jogador para a mão dele."
- },
- {
-   "card_id": 38,
-   "card_name": "Narwhal Torpedo",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/narwhal_torpedo.png",
-   "card_uri": "https://i.imgur.com/cKF24qa.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, sacrifique todas as cartas de maldição do seu estábulo."
- },
- {
-   "card_id": 39,
-   "card_name": "Puppicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/puppicorn.png",
-   "card_uri": "https://i.imgur.com/0e2P7hI.png",
-   "card_effect": "No início do turno de cada jogador, mova esta carta para o estábulo dele. Puppicorn não pode ser sacrificado ou destruído."
- },
- {
-   "card_id": 40,
-   "card_name": "Queen Bee Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/queen_bee_unicorn.png",
-   "card_uri": "https://i.imgur.com/YQmVR6J.png",
-   "card_effect": "Nenhum jogador pode colocar cartas de unicórnios básicos nos estábulos, a não ser você."
- },
- {
-   "card_id": 41,
-   "card_name": "Rainbow Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/rainbow_unicorn.png",
-   "card_uri": "https://i.imgur.com/3hJcBFU.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE colocar uma carta de unicórnio básico da sua mão no seu estábulo."
- },
- {
-   "card_id": 42,
-   "card_name": "Rhinocorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/rhinocorn.png",
-   "card_uri": "https://i.imgur.com/FtAlm89.png",
-   "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE destruir uma carta de unicórnio. Se fizer isso, encerre o seu turno imediatamente."
- },
- {
-   "card_id": 43,
-   "card_name": "Seductive Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/seductive_unicorn.png",
-   "card_uri": "https://i.imgur.com/YADfBvR.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE descartar uma carta, e então roubar uma carta de unicórnio."
- },
- {
-   "card_id": 44,
-   "card_name": "Shabby The Narwhal",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/shabby_the_narwhal.png",
-   "card_uri": "https://i.imgur.com/8RnjovK.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE procurar uma carta de maldição na pilha de compra e colocá-la na sua mão, depois embaralhe a pilha de compra."
- },
- {
-   "card_id": 45,
-   "card_name": "Shark With a Horn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/shark_with_a_horn.png",
-   "card_uri": "https://i.imgur.com/wudOgzb.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE sacrificá-la e então destruir uma carta de unicórnio."
- },
- {
-   "card_id": 46,
-   "card_name": "Stabby The Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/stabby_the_unicorn.png",
-   "card_uri": "https://i.imgur.com/Vq5WAUH.png",
-   "card_effect": "Se Stabby The Unicorn for sacrificado ou destruído, você PODE destruir uma carta de unicórnio."
- },
- {
-   "card_id": 47,
-   "card_name": "Swift Flying Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/swift_flying_unicorn.png",
-   "card_uri": "https://i.imgur.com/PrYHbWd.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE pegar uma carta Neigh da pilha de descarte e colocá-la na sua mão. Se Swift Flying Unicorn for sacrificado ou destruído, retorne-o para a sua mão."
- },
- {
-   "card_id": 48,
-   "card_name": "The Great Narwhal",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/the_great_narwhal.png",
-   "card_uri": "https://i.imgur.com/hDfeuZU.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, você PODE procurar uma carta que tenha \"Narwhal\" no seu nome na pilha de compras e colocá-la na sua mão, depois embaralhe a pilha de compras."
- },
- {
-   "card_id": 49,
-   "card_name": "Unicorn On The Cob",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/unicorn_on_the_cob.png",
-   "card_uri": "https://i.imgur.com/fFyrsVU.png",
-   "card_effect": "Quando esta carta entra no seu estábulo, compre 2 cartas e depois descarte uma carta."
- },
- {
-   "card_id": 50,
-   "card_name": "Unicorn Phoenix",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/unicorn_phoenix.png",
-   "card_uri": "https://i.imgur.com/BjL1ghR.png",
-   "card_effect": "Se Unicorn Phoenix for sacrificado ou destruído, ao invés disso, você PODE descartar uma carta."
- },
- {
-   "card_id": 51,
-   "card_name": "Zombie Unicorn",
-   "card_type": "Unicórnio Mágico",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magical_unicorn/zombie_unicorn.png",
-   "card_uri": "https://i.imgur.com/KgT9I23.png",
-   "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar uma carta de unicórnio. Se fizer isso, escolha uma carta de unicórnio da pilha de descartes, coloque-a diretamente no seu estábulo e passe imediatamente para a sua fase de fim de turno."
- },
- {
-   "card_id": 52,
-   "card_name": "Back Kick",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/back_kick.png",
-   "card_uri": "https://i.imgur.com/PRqag3y.png",
-   "card_effect": "Retorne uma carta do estábulo de outro jogador para a mão dele. O jogador escolhido DEVE descartar uma carta."
- },
- {
-   "card_id": 53,
-   "card_name": "Blatant Thievery",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/blatant_thievery.png",
-   "card_uri": "https://i.imgur.com/EZ2VcBg.png",
-   "card_effect": "Veja a mão de um outro jogador. Pegue uma carta dele e coloque-a na sua mão."
- },
- {
-   "card_id": 54,
-   "card_name": "Change Of Luck",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/change_of_luck.png",
-   "card_uri": "https://i.imgur.com/FuMlnkh.png",
-   "card_effect": "Compre 2 cartas e descarte 3 cartas, depois jogue mais um turno."
- },
- {
-   "card_id": 55,
-   "card_name": "Glitter Tornado",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/glitter_tornado.png",
-   "card_uri": "https://i.imgur.com/6GItgBT.png",
-   "card_effect": "Retorne uma carta do estábulo de cada jogador (incluindo você) para as mãos deles."
- },
- {
-   "card_id": 56,
-   "card_name": "Good Deal",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/good_deal.png",
-   "card_uri": "https://i.imgur.com/UQvWruq.png",
-   "card_effect": "Compre 3 cartas e descarte uma carta."
- },
- {
-   "card_id": 57,
-   "card_name": "Mystical Vortex",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/mystical_vortex.png",
-   "card_uri": "https://i.imgur.com/SsxvWnT.png",
-   "card_effect": "Cada jogador (incluindo você) DEVE descartar uma carta. Embaralhe a pilha de descartes na pilha de compras."
- },
- {
-   "card_id": 58,
-   "card_name": "Re-Target",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/re-target.png",
-   "card_uri": "https://i.imgur.com/KLXXIwQ.png",
-   "card_effect": "Mova um encantamento ou maldição do estábulo de qualquer jogador para o estábulo de qualquer outro."
- },
- {
-   "card_id": 59,
-   "card_name": "Reset Button",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/reset_button.png",
-   "card_uri": "https://i.imgur.com/Wx7dd0O.png",
-   "card_effect": "Cada jogador (incluindo você) DEVE sacrificar todas as cartas de encantamento e maldição nos seus estábulos. Embaralhe a pilha de descartes na pilha de compras."
- },
- {
-   "card_id": 60,
-   "card_name": "Shake Up",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/shake_up.png",
-   "card_uri": "https://i.imgur.com/xocifCY.png",
-   "card_effect": "Embaralhe esta carta, sua mão e a pilha de descartes na pilha de compras. Compre 5 cartas."
- },
- {
-   "card_id": 61,
-   "card_name": "Targeted Destruction",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/targeted_destruction.png",
-   "card_uri": "https://i.imgur.com/g1cefJh.png",
-   "card_effect": "Destrua uma carta de encantamento ou sacrifique uma carta de maldição."
- },
- {
-   "card_id": 62,
-   "card_name": "Two-For-One",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/two-for-one.png",
-   "card_uri": "https://i.imgur.com/bLPLWhS.png",
-   "card_effect": "Sacrifique uma carta, depois destrua 2 cartas."
- },
- {
-   "card_id": 63,
-   "card_name": "Unfair Bargain",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/unfair_bargain.png",
-   "card_uri": "https://i.imgur.com/X74OktX.png",
-   "card_effect": "Troque as cartas da sua mão com as cartas da mão de qualquer outro jogador."
- },
- {
-   "card_id": 64,
-   "card_name": "Unicorn Poison",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/unicorn_poison.png",
-   "card_uri": "https://i.imgur.com/Y8kawgD.png",
-   "card_effect": "Destrua uma carta de unicórnio."
- },
- {
-   "card_id": 65,
-   "card_name": "Unicorn Shrinkray",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/unicorn_shrinkray.png",
-   "card_uri": "https://i.imgur.com/PBJAcjT.png",
-   "card_effect": "Escolha qualquer jogador. Mova todas as cartas de unicórnio desse jogador para a pilha de descartes sem ativar nenhum dos seus efeitos, depois coloque o mesmo número de cartas de unicórnios bebês da enfermaria diretamente no estábulo desse mesmo jogador."
- },
- {
-   "card_id": 66,
-   "card_name": "Unicorn Swap",
-   "card_type": "Mágica",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/magic/unicorn_swap.png",
-   "card_uri": "https://i.imgur.com/sxMJwGb.png",
-   "card_effect": "Mova uma carta de unicórnio do seu estábulo para o estábulo de um outro jogador, depois roube uma carta de unicórnio do estábulo dele."
- },
- {
-   "card_id": 67,
-   "card_name": "Neigh",
-   "card_type": "Instantânea",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/instant/neigh.png",
-   "card_uri": "https://i.imgur.com/pFCTaHZ.png",
-   "card_effect": "Jogue esta carta quando outro jogador tentar jogar uma carta. Impeça a carta dele de ser jogada e coloque-a diretamente na pilha de descartes."
- },
- {
-   "card_id": 68,
-   "card_name": "Super Neigh",
-   "card_type": "Instantânea",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/instant/super_neigh.png",
-   "card_uri": "https://i.imgur.com/qZiNL5u.png",
-   "card_effect": "Jogue esta carta quando outro jogador tentar jogar uma carta. Impeça a carta dele de ser jogada e coloque-a diretamente na pilha de descartes. Esta carta não pode ser negada por outra carta Neigh."
- },
- {
-   "card_id": 69,
-   "card_name": "Double Dutch",
-   "card_type": "Encantamento",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/upgrade/double_dutch.png",
-   "card_uri": "https://i.imgur.com/5j6qgWe.png",
-   "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE jogar 2 cartas durante sua fase de ação."
- },
- {
-   "card_id": 70,
-   "card_name": "Extra Tail",
-   "card_type": "Encantamento",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/upgrade/extra_tail.png",
-   "card_uri": "https://i.imgur.com/De2IVbE.png",
-   "card_effect": "Esta carta poderá ser jogada apenas se você tiver uma carta de unicórnio básico no seu estábulo. Se esta carta estiver no seu estábulo no início do seu turno, você PODE comprar uma carta extra."
- },
- {
-   "card_id": 71,
-   "card_name": "Glitter Bomb",
-   "card_type": "Encantamento",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/upgrade/glitter_bomb.png",
-   "card_uri": "https://i.imgur.com/0Hu3ajH.png",
-   "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta, depois destrua uma carta."
- },
- {
-   "card_id": 72,
-   "card_name": "Rainbow Aura",
-   "card_type": "Encantamento",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/upgrade/rainbow_aura.png",
-   "card_uri": "https://i.imgur.com/6Is6Yzi.png",
-   "card_effect": "Suas cartas de unicórnio não podem ser destruídas."
- },
- {
-   "card_id": 73,
-   "card_name": "Rainbow Mane",
-   "card_type": "Encantamento",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/upgrade/rainbow_mane.png",
-   "card_uri": "https://i.imgur.com/xoLdCBl.png",
-   "card_effect": "Esta carta somente entra no seu estábulo se uma carta de unicórnio básico estiver lá. Se esta carta estiver no seu estábulo no início do seu turno, você PODE colocar uma carta de unicórnio básico da sua mão diretamente no seu estábulo."
- },
- {
-   "card_id": 74,
-   "card_name": "Summoning Ritual",
-   "card_type": "Encantamento",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/upgrade/summoning_ritual.png",
-   "card_uri": "https://i.imgur.com/gEMpSsA.png",
-   "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar 2 cartas de unicórnio. Se fizer isso, coloque uma carta de unicórnio da pilha de descartes diretamente no seu estábulo."
- },
- {
-   "card_id": 75,
-   "card_name": "Unicorn Lasso",
-   "card_type": "Encantamento",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/upgrade/unicorn_lasso.png",
-   "card_uri": "https://i.imgur.com/pcKZ2A9.png",
-   "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE roubar uma carta de unicórnio. No fim do seu turno, retorne o unicórnio roubado para o estábulo do jogador o qual você roubou."
- },
- {
-   "card_id": 76,
-   "card_name": "YAY",
-   "card_type": "Encantamento",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/upgrade/yay.png",
-   "card_uri": "https://i.imgur.com/RQZdTXP.png",
-   "card_effect": "As cartas que você jogar não podem ser negadas."
- },
- {
-   "card_id": 77,
-   "card_name": "Barbed Wire",
-   "card_type": "Maldição",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/downgrade/barbed_wire.png",
-   "card_uri": "https://i.imgur.com/9E7VBWq.png",
-   "card_effect": "Cada vez que uma carta de unicórnio entra ou sai do seu estábulo, descarte uma carta."
- },
- {
-   "card_id": 78,
-   "card_name": "Blinding Light",
-   "card_type": "Maldição",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/downgrade/blinding_light.png",
-   "card_uri": "https://i.imgur.com/VmlWnel.png",
-   "card_effect": "Todas as suas cartas de unicórnio são consideradas unicórnios básicos sem nenhum efeito."
- },
- {
-   "card_id": 79,
-   "card_name": "Broken Stable",
-   "card_type": "Maldição",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/downgrade/broken_stable.png",
-   "card_uri": "https://i.imgur.com/95wYcLV.png",
-   "card_effect": "Você não pode jogar cartas de encantamento."
- },
- {
-   "card_id": 80,
-   "card_name": "Nanny Cam",
-   "card_type": "Maldição",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/downgrade/nanny_cam.png",
-   "card_uri": "https://i.imgur.com/d2DxFtW.png",
-   "card_effect": "Sua mão deve ser visível para todos os jogadores."
- },
- {
-   "card_id": 81,
-   "card_name": "Pandamonium",
-   "card_type": "Maldição",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/downgrade/pandamonium.png",
-   "card_uri": "https://i.imgur.com/4zGiTnH.png",
-   "card_effect": "Todos os seus unicórnios são considerados pandas. Cartas que afetam unicórnios não afetam seus pandas."
- },
- {
-   "card_id": 82,
-   "card_name": "Sadistic Ritual",
-   "card_type": "Maldição",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/downgrade/sadistic_ritual.png",
-   "card_uri": "https://i.imgur.com/BZbysFH.png",
-   "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, sacrifique uma carta de unicórnio, depois compre uma carta."
- },
- {
-   "card_id": 83,
-   "card_name": "Slowdown",
-   "card_type": "Maldição",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/downgrade/slowdown.png",
-   "card_uri": "https://i.imgur.com/LcBFa1K.png",
-   "card_effect": "Você não pode jogar cartas Neigh."
- },
- {
-   "card_id": 84,
-   "card_name": "Tiny Stable",
-   "card_type": "Maldição",
-   "card_edition": "Original Base Deck",
-   "card_path": "/original_base_deck/downgrade/tiny_stable.png",
-   "card_uri": "https://i.imgur.com/TlQVfz7.png",
-   "card_effect": "Se a qualquer momento você tiver mais de 5 unicórnios no seu estábulo, sacrifique uma carta de unicórnio."
- }
+  {
+    "card_id": 1,
+    "card_name": "Baby Narwhal",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_narwhal.png",
+    "card_uri": "https://i.imgur.com/jSPrz3p.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 2,
+    "card_name": "Baby Unicorn (Black)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_black.png",
+    "card_uri": "https://i.imgur.com/ZzIHQRX.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 3,
+    "card_name": "Baby Unicorn (Blue)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_blue.png",
+    "card_uri": "https://i.imgur.com/901WCla.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 4,
+    "card_name": "Baby Unicorn (Brown)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_brown.png",
+    "card_uri": "https://i.imgur.com/bOrw5fO.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 5,
+    "card_name": "Baby Unicorn (Death)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_death.png",
+    "card_uri": "https://i.imgur.com/UnzKPUE.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 6,
+    "card_name": "Baby Unicorn (Green)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_green.png",
+    "card_uri": "https://i.imgur.com/WNd3aI3.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 7,
+    "card_name": "Baby Unicorn (Orange)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_orange.png",
+    "card_uri": "https://i.imgur.com/v2fUkMR.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 8,
+    "card_name": "Baby Unicorn (Pink)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_pink.png",
+    "card_uri": "https://i.imgur.com/uctS6pV.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 9,
+    "card_name": "Baby Unicorn (Purple)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_purple.png",
+    "card_uri": "https://i.imgur.com/peWjN1v.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 10,
+    "card_name": "Baby Unicorn (Rainbow)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_rainbow.png",
+    "card_uri": "https://i.imgur.com/lLJq2a7.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 11,
+    "card_name": "Baby Unicorn (Red)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_red.png",
+    "card_uri": "https://i.imgur.com/TGCUyvA.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 12,
+    "card_name": "Baby Unicorn (Yellow)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_yellow.png",
+    "card_uri": "https://i.imgur.com/0peg3Iu.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 13,
+    "card_name": "Baby Unicorn (White)",
+    "card_type_id": 0,
+    "card_type": "Unicórnio Bebê",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/baby_unicorn/baby_unicorn_white.png",
+    "card_uri": "https://i.imgur.com/XzhLpmD.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 14,
+    "card_name": "Basic Unicorn (Blue)",
+    "card_type_id": 1,
+    "card_type": "Unicórnio Básico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_blue.png",
+    "card_uri": "https://i.imgur.com/UDtS0lr.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 15,
+    "card_name": "Basic Unicorn (Green)",
+    "card_type_id": 1,
+    "card_type": "Unicórnio Básico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_green.png",
+    "card_uri": "https://i.imgur.com/apZ4VG0.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 16,
+    "card_name": "Basic Unicorn (Indigo)",
+    "card_type_id": 1,
+    "card_type": "Unicórnio Básico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_indigo.png",
+    "card_uri": "https://i.imgur.com/qiuXLQS.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 17,
+    "card_name": "Basic Unicorn (Orange)",
+    "card_type_id": 1,
+    "card_type": "Unicórnio Básico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_orange.png",
+    "card_uri": "https://i.imgur.com/oSQVFQN.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 18,
+    "card_name": "Basic Unicorn (Purple)",
+    "card_type_id": 1,
+    "card_type": "Unicórnio Básico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_purple.png",
+    "card_uri": "https://i.imgur.com/8aOHw3b.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 19,
+    "card_name": "Basic Unicorn (Red)",
+    "card_type_id": 1,
+    "card_type": "Unicórnio Básico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_red.png",
+    "card_uri": "https://i.imgur.com/D7VWtbk.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 20,
+    "card_name": "Basic Unicorn (Yellow)",
+    "card_type_id": 1,
+    "card_type": "Unicórnio Básico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/basic_unicorn/basic_unicorn_yellow.png",
+    "card_uri": "https://i.imgur.com/Cg5qs9n.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 21,
+    "card_name": "Basic Narwhal",
+    "card_type_id": 1,
+    "card_type": "Unicórnio Básico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/basic_unicorn/basic_narwhal.png",
+    "card_uri": "https://i.imgur.com/tUwPJM4.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 22,
+    "card_name": "Alluring Narwhal",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/alluring_narwhal.png",
+    "card_uri": "https://i.imgur.com/9oJ09bk.png",
+    "card_effect": "Quanto esta carta entra no seu estábulo, você PODE roubar uma carta de encantamento."
+  },
+  {
+    "card_id": 23,
+    "card_name": "Americorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/americorn.png",
+    "card_uri": "https://i.imgur.com/Txm3w7I.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE puxar uma carta aleatoriamente da mão de outro jogador."
+  },
+  {
+    "card_id": 24,
+    "card_name": "Angel Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/angel_unicorn.png",
+    "card_uri": "https://i.imgur.com/TrZ0nl3.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar esta carta. Se fizer isso, escolha uma carta de unicórnio da pilha de descarte e coloque-a diretamente no seu estábulo."
+  },
+  {
+    "card_id": 25,
+    "card_name": "Annoying Flying Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/annoying_flying_unicorn.png",
+    "card_uri": "https://i.imgur.com/gEvJ3nU.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE forçar outro jogador a descartar uma carta. Se Annoying Flying Unicorn for sacrificado ou destruído, retorne-o para sua mão."
+  },
+  {
+    "card_id": 26,
+    "card_name": "Black Knight Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/black_knight_unicorn.png",
+    "card_uri": "https://i.imgur.com/wALdDsm.png",
+    "card_effect": "Se uma carta de unicórnio no seu estábulo for destruída, você PODE sacrificar Black Knight Unicorn no lugar dela."
+  },
+  {
+    "card_id": 27,
+    "card_name": "Chainsaw Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/chainsaw_unicorn.png",
+    "card_uri": "https://i.imgur.com/EeFEFr9.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE destruir uma carta de encantamento ou sacrificar uma carta de maldição."
+  },
+  {
+    "card_id": 28,
+    "card_name": "Classy Narwhal",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/classy_narwhal.png",
+    "card_uri": "https://i.imgur.com/jKFeefX.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE procurar uma carta de encantamento na pilha de compra e adicioná-la na sua mão, depois embaralhe a pilha de compra."
+  },
+  {
+    "card_id": 29,
+    "card_name": "Extremely Destructive Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/extremely_destructive_unicorn.png",
+    "card_uri": "https://i.imgur.com/Y1om5uN.png",
+    "card_effect": "Quando esta carta entra no seu estábulho, cada jogador (incluindo você) DEVE sacrificar uma carta de unicórnio."
+  },
+  {
+    "card_id": 30,
+    "card_name": "Extremely Fertile Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/extremely_fertile_unicorn.png",
+    "card_uri": "https://i.imgur.com/FdF5RVx.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar uma carta. Se fizer isso, traga uma carta de Bebê Unicórnio da enfermaria diretamente para seu estábulo."
+  },
+  {
+    "card_id": 31,
+    "card_name": "Ginormous Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/ginormous_unicorn.png",
+    "card_uri": "https://i.imgur.com/KATbVBy.png",
+    "card_effect": "Esta carta conta por 2 unicórnios. Você não pode jogar nenhuma carta Neigh."
+  },
+  {
+    "card_id": 32,
+    "card_name": "Greedy Flying Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/greedy_flying_unicorn.png",
+    "card_uri": "https://i.imgur.com/ENqB6wm.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, compre uma carta. Se Greedy Flying Unicorn for sacrificado ou destruído, retorne-o para sua mão."
+  },
+  {
+    "card_id": 33,
+    "card_name": "Llamacorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/llamacorn.png",
+    "card_uri": "https://i.imgur.com/ieqHYCf.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, cada jogador (incluindo você) DEVE descartar uma carta."
+  },
+  {
+    "card_id": 34,
+    "card_name": "Magical Flying Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/magical_flying_unicorn.png",
+    "card_uri": "https://i.imgur.com/Wc95Yg8.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE pegar uma carta de mágica da pilha de descarte e colocá-la na sua mão. Se Magical Flying Unicorn for sacrificado ou destruído, retorne-o para a sua mão."
+  },
+  {
+    "card_id": 35,
+    "card_name": "Magical Kittencorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/magical_kittencorn.png",
+    "card_uri": "https://i.imgur.com/mIOXITN.png",
+    "card_effect": "Esta carta não pode ser destruída por cartas de mágica."
+  },
+  {
+    "card_id": 36,
+    "card_name": "Majestic Flying Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/majestic_flying_unicorn.png",
+    "card_uri": "https://i.imgur.com/EfjupR7.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE pegar uma carta de unicórnio da pilha de descarte e colocá-la na sua mão. Se Majestic Flying Unicorn for sacrificado ou destruído, retorne-o para a sua mão."
+  },
+  {
+    "card_id": 37,
+    "card_name": "Mermaid Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/mermaid_unicorn.png",
+    "card_uri": "https://i.imgur.com/G2TEMHf.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, retorne uma carta do estábulo de um outro jogador para a mão dele."
+  },
+  {
+    "card_id": 38,
+    "card_name": "Narwhal Torpedo",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/narwhal_torpedo.png",
+    "card_uri": "https://i.imgur.com/cKF24qa.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique todas as cartas de maldição do seu estábulo."
+  },
+  {
+    "card_id": 39,
+    "card_name": "Puppicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/puppicorn.png",
+    "card_uri": "https://i.imgur.com/0e2P7hI.png",
+    "card_effect": "No início do turno de cada jogador, mova esta carta para o estábulo dele. Puppicorn não pode ser sacrificado ou destruído."
+  },
+  {
+    "card_id": 40,
+    "card_name": "Queen Bee Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/queen_bee_unicorn.png",
+    "card_uri": "https://i.imgur.com/YQmVR6J.png",
+    "card_effect": "Nenhum jogador pode colocar cartas de unicórnios básicos nos estábulos, a não ser você."
+  },
+  {
+    "card_id": 41,
+    "card_name": "Rainbow Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/rainbow_unicorn.png",
+    "card_uri": "https://i.imgur.com/3hJcBFU.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE colocar uma carta de unicórnio básico da sua mão no seu estábulo."
+  },
+  {
+    "card_id": 42,
+    "card_name": "Rhinocorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/rhinocorn.png",
+    "card_uri": "https://i.imgur.com/FtAlm89.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE destruir uma carta de unicórnio. Se fizer isso, encerre o seu turno imediatamente."
+  },
+  {
+    "card_id": 43,
+    "card_name": "Seductive Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/seductive_unicorn.png",
+    "card_uri": "https://i.imgur.com/YADfBvR.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE descartar uma carta, e então roubar uma carta de unicórnio."
+  },
+  {
+    "card_id": 44,
+    "card_name": "Shabby The Narwhal",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/shabby_the_narwhal.png",
+    "card_uri": "https://i.imgur.com/8RnjovK.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE procurar uma carta de maldição na pilha de compra e colocá-la na sua mão, depois embaralhe a pilha de compra."
+  },
+  {
+    "card_id": 45,
+    "card_name": "Shark With a Horn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/shark_with_a_horn.png",
+    "card_uri": "https://i.imgur.com/wudOgzb.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE sacrificá-la e então destruir uma carta de unicórnio."
+  },
+  {
+    "card_id": 46,
+    "card_name": "Stabby The Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/stabby_the_unicorn.png",
+    "card_uri": "https://i.imgur.com/Vq5WAUH.png",
+    "card_effect": "Se Stabby The Unicorn for sacrificado ou destruído, você PODE destruir uma carta de unicórnio."
+  },
+  {
+    "card_id": 47,
+    "card_name": "Swift Flying Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/swift_flying_unicorn.png",
+    "card_uri": "https://i.imgur.com/PrYHbWd.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE pegar uma carta Neigh da pilha de descarte e colocá-la na sua mão. Se Swift Flying Unicorn for sacrificado ou destruído, retorne-o para a sua mão."
+  },
+  {
+    "card_id": 48,
+    "card_name": "The Great Narwhal",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/the_great_narwhal.png",
+    "card_uri": "https://i.imgur.com/hDfeuZU.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE procurar uma carta que tenha \"Narwhal\" no seu nome na pilha de compras e colocá-la na sua mão, depois embaralhe a pilha de compras."
+  },
+  {
+    "card_id": 49,
+    "card_name": "Unicorn On The Cob",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/unicorn_on_the_cob.png",
+    "card_uri": "https://i.imgur.com/fFyrsVU.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, compre 2 cartas e depois descarte uma carta."
+  },
+  {
+    "card_id": 50,
+    "card_name": "Unicorn Phoenix",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/unicorn_phoenix.png",
+    "card_uri": "https://i.imgur.com/BjL1ghR.png",
+    "card_effect": "Se Unicorn Phoenix for sacrificado ou destruído, ao invés disso, você PODE descartar uma carta."
+  },
+  {
+    "card_id": 51,
+    "card_name": "Zombie Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magical_unicorn/zombie_unicorn.png",
+    "card_uri": "https://i.imgur.com/KgT9I23.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar uma carta de unicórnio. Se fizer isso, escolha uma carta de unicórnio da pilha de descartes, coloque-a diretamente no seu estábulo e passe imediatamente para a sua fase de fim de turno."
+  },
+  {
+    "card_id": 52,
+    "card_name": "Back Kick",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/back_kick.png",
+    "card_uri": "https://i.imgur.com/PRqag3y.png",
+    "card_effect": "Retorne uma carta do estábulo de outro jogador para a mão dele. O jogador escolhido DEVE descartar uma carta."
+  },
+  {
+    "card_id": 53,
+    "card_name": "Blatant Thievery",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/blatant_thievery.png",
+    "card_uri": "https://i.imgur.com/EZ2VcBg.png",
+    "card_effect": "Veja a mão de um outro jogador. Pegue uma carta dele e coloque-a na sua mão."
+  },
+  {
+    "card_id": 54,
+    "card_name": "Change Of Luck",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/change_of_luck.png",
+    "card_uri": "https://i.imgur.com/FuMlnkh.png",
+    "card_effect": "Compre 2 cartas e descarte 3 cartas, depois jogue mais um turno."
+  },
+  {
+    "card_id": 55,
+    "card_name": "Glitter Tornado",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/glitter_tornado.png",
+    "card_uri": "https://i.imgur.com/6GItgBT.png",
+    "card_effect": "Retorne uma carta do estábulo de cada jogador (incluindo você) para as mãos deles."
+  },
+  {
+    "card_id": 56,
+    "card_name": "Good Deal",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/good_deal.png",
+    "card_uri": "https://i.imgur.com/UQvWruq.png",
+    "card_effect": "Compre 3 cartas e descarte uma carta."
+  },
+  {
+    "card_id": 57,
+    "card_name": "Mystical Vortex",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/mystical_vortex.png",
+    "card_uri": "https://i.imgur.com/SsxvWnT.png",
+    "card_effect": "Cada jogador (incluindo você) DEVE descartar uma carta. Embaralhe a pilha de descartes na pilha de compras."
+  },
+  {
+    "card_id": 58,
+    "card_name": "Re-Target",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/re-target.png",
+    "card_uri": "https://i.imgur.com/KLXXIwQ.png",
+    "card_effect": "Mova um encantamento ou maldição do estábulo de qualquer jogador para o estábulo de qualquer outro."
+  },
+  {
+    "card_id": 59,
+    "card_name": "Reset Button",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/reset_button.png",
+    "card_uri": "https://i.imgur.com/Wx7dd0O.png",
+    "card_effect": "Cada jogador (incluindo você) DEVE sacrificar todas as cartas de encantamento e maldição nos seus estábulos. Embaralhe a pilha de descartes na pilha de compras."
+  },
+  {
+    "card_id": 60,
+    "card_name": "Shake Up",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/shake_up.png",
+    "card_uri": "https://i.imgur.com/xocifCY.png",
+    "card_effect": "Embaralhe esta carta, sua mão e a pilha de descartes na pilha de compras. Compre 5 cartas."
+  },
+  {
+    "card_id": 61,
+    "card_name": "Targeted Destruction",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/targeted_destruction.png",
+    "card_uri": "https://i.imgur.com/g1cefJh.png",
+    "card_effect": "Destrua uma carta de encantamento ou sacrifique uma carta de maldição."
+  },
+  {
+    "card_id": 62,
+    "card_name": "Two-For-One",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/two-for-one.png",
+    "card_uri": "https://i.imgur.com/bLPLWhS.png",
+    "card_effect": "Sacrifique uma carta, depois destrua 2 cartas."
+  },
+  {
+    "card_id": 63,
+    "card_name": "Unfair Bargain",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/unfair_bargain.png",
+    "card_uri": "https://i.imgur.com/X74OktX.png",
+    "card_effect": "Troque as cartas da sua mão com as cartas da mão de qualquer outro jogador."
+  },
+  {
+    "card_id": 64,
+    "card_name": "Unicorn Poison",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/unicorn_poison.png",
+    "card_uri": "https://i.imgur.com/Y8kawgD.png",
+    "card_effect": "Destrua uma carta de unicórnio."
+  },
+  {
+    "card_id": 65,
+    "card_name": "Unicorn Shrinkray",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/unicorn_shrinkray.png",
+    "card_uri": "https://i.imgur.com/PBJAcjT.png",
+    "card_effect": "Escolha qualquer jogador. Mova todas as cartas de unicórnio desse jogador para a pilha de descartes sem ativar nenhum dos seus efeitos, depois coloque o mesmo número de cartas de unicórnios bebês da enfermaria diretamente no estábulo desse mesmo jogador."
+  },
+  {
+    "card_id": 66,
+    "card_name": "Unicorn Swap",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/magic/unicorn_swap.png",
+    "card_uri": "https://i.imgur.com/sxMJwGb.png",
+    "card_effect": "Mova uma carta de unicórnio do seu estábulo para o estábulo de um outro jogador, depois roube uma carta de unicórnio do estábulo dele."
+  },
+  {
+    "card_id": 67,
+    "card_name": "Neigh",
+    "card_type_id": 4,
+    "card_type": "Instantânea",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/instant/neigh.png",
+    "card_uri": "https://i.imgur.com/pFCTaHZ.png",
+    "card_effect": "Jogue esta carta quando outro jogador tentar jogar uma carta. Impeça a carta dele de ser jogada e coloque-a diretamente na pilha de descartes."
+  },
+  {
+    "card_id": 68,
+    "card_name": "Super Neigh",
+    "card_type_id": 4,
+    "card_type": "Instantânea",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/instant/super_neigh.png",
+    "card_uri": "https://i.imgur.com/qZiNL5u.png",
+    "card_effect": "Jogue esta carta quando outro jogador tentar jogar uma carta. Impeça a carta dele de ser jogada e coloque-a diretamente na pilha de descartes. Esta carta não pode ser negada por outra carta Neigh."
+  },
+  {
+    "card_id": 69,
+    "card_name": "Double Dutch",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/upgrade/double_dutch.png",
+    "card_uri": "https://i.imgur.com/5j6qgWe.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE jogar 2 cartas durante sua fase de ação."
+  },
+  {
+    "card_id": 70,
+    "card_name": "Extra Tail",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/upgrade/extra_tail.png",
+    "card_uri": "https://i.imgur.com/De2IVbE.png",
+    "card_effect": "Esta carta poderá ser jogada apenas se você tiver uma carta de unicórnio básico no seu estábulo. Se esta carta estiver no seu estábulo no início do seu turno, você PODE comprar uma carta extra."
+  },
+  {
+    "card_id": 71,
+    "card_name": "Glitter Bomb",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/upgrade/glitter_bomb.png",
+    "card_uri": "https://i.imgur.com/0Hu3ajH.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta, depois destrua uma carta."
+  },
+  {
+    "card_id": 72,
+    "card_name": "Rainbow Aura",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/upgrade/rainbow_aura.png",
+    "card_uri": "https://i.imgur.com/6Is6Yzi.png",
+    "card_effect": "Suas cartas de unicórnio não podem ser destruídas."
+  },
+  {
+    "card_id": 73,
+    "card_name": "Rainbow Mane",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/upgrade/rainbow_mane.png",
+    "card_uri": "https://i.imgur.com/xoLdCBl.png",
+    "card_effect": "Esta carta somente entra no seu estábulo se uma carta de unicórnio básico estiver lá. Se esta carta estiver no seu estábulo no início do seu turno, você PODE colocar uma carta de unicórnio básico da sua mão diretamente no seu estábulo."
+  },
+  {
+    "card_id": 74,
+    "card_name": "Summoning Ritual",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/upgrade/summoning_ritual.png",
+    "card_uri": "https://i.imgur.com/gEMpSsA.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar 2 cartas de unicórnio. Se fizer isso, coloque uma carta de unicórnio da pilha de descartes diretamente no seu estábulo."
+  },
+  {
+    "card_id": 75,
+    "card_name": "Unicorn Lasso",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/upgrade/unicorn_lasso.png",
+    "card_uri": "https://i.imgur.com/pcKZ2A9.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE roubar uma carta de unicórnio. No fim do seu turno, retorne o unicórnio roubado para o estábulo do jogador o qual você roubou."
+  },
+  {
+    "card_id": 76,
+    "card_name": "YAY",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/upgrade/yay.png",
+    "card_uri": "https://i.imgur.com/RQZdTXP.png",
+    "card_effect": "As cartas que você jogar não podem ser negadas."
+  },
+  {
+    "card_id": 77,
+    "card_name": "Barbed Wire",
+    "card_type_id": 6,
+    "card_type": "Maldição",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/downgrade/barbed_wire.png",
+    "card_uri": "https://i.imgur.com/9E7VBWq.png",
+    "card_effect": "Cada vez que uma carta de unicórnio entra ou sai do seu estábulo, descarte uma carta."
+  },
+  {
+    "card_id": 78,
+    "card_name": "Blinding Light",
+    "card_type_id": 6,
+    "card_type": "Maldição",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/downgrade/blinding_light.png",
+    "card_uri": "https://i.imgur.com/VmlWnel.png",
+    "card_effect": "Todas as suas cartas de unicórnio são consideradas unicórnios básicos sem nenhum efeito."
+  },
+  {
+    "card_id": 79,
+    "card_name": "Broken Stable",
+    "card_type_id": 6,
+    "card_type": "Maldição",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/downgrade/broken_stable.png",
+    "card_uri": "https://i.imgur.com/95wYcLV.png",
+    "card_effect": "Você não pode jogar cartas de encantamento."
+  },
+  {
+    "card_id": 80,
+    "card_name": "Nanny Cam",
+    "card_type_id": 6,
+    "card_type": "Maldição",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/downgrade/nanny_cam.png",
+    "card_uri": "https://i.imgur.com/d2DxFtW.png",
+    "card_effect": "Sua mão deve ser visível para todos os jogadores."
+  },
+  {
+    "card_id": 81,
+    "card_name": "Pandamonium",
+    "card_type_id": 6,
+    "card_type": "Maldição",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/downgrade/pandamonium.png",
+    "card_uri": "https://i.imgur.com/4zGiTnH.png",
+    "card_effect": "Todos os seus unicórnios são considerados pandas. Cartas que afetam unicórnios não afetam seus pandas."
+  },
+  {
+    "card_id": 82,
+    "card_name": "Sadistic Ritual",
+    "card_type_id": 6,
+    "card_type": "Maldição",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/downgrade/sadistic_ritual.png",
+    "card_uri": "https://i.imgur.com/BZbysFH.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, sacrifique uma carta de unicórnio, depois compre uma carta."
+  },
+  {
+    "card_id": 83,
+    "card_name": "Slowdown",
+    "card_type_id": 6,
+    "card_type": "Maldição",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/downgrade/slowdown.png",
+    "card_uri": "https://i.imgur.com/LcBFa1K.png",
+    "card_effect": "Você não pode jogar cartas Neigh."
+  },
+  {
+    "card_id": 84,
+    "card_name": "Tiny Stable",
+    "card_type_id": 6,
+    "card_type": "Maldição",
+    "card_edition": "Original Base Deck",
+    "card_path": "/original_base_deck/downgrade/tiny_stable.png",
+    "card_uri": "https://i.imgur.com/TlQVfz7.png",
+    "card_effect": "Se a qualquer momento você tiver mais de 5 unicórnios no seu estábulo, sacrifique uma carta de unicórnio."
+  },
+  {
+    "card_id": 85,
+    "card_name": "Mother Goose Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Second Edition Base Deck",
+    "card_path": "/second_edition_base_deck/magical_unicorn/mother_goose_unicorn.png",
+    "card_uri": "",
+    "card_effect": "Quando esta carta entrar no seu estábulo, você PODE trazer um bebê do berçário diretamente para seu estábulo."
+  },
+  {
+    "card_id": 86,
+    "card_name": "Unicorn Oracle",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Second Edition Base Deck",
+    "card_path": "/second_edition_base_deck/magical_unicorn/unicorn_oracle.png",
+    "card_uri": "",
+    "card_effect": "Quando esta carta entrar no seu estábulo, olhe as três primeiras cartas da pilha de compras e adicione uma delas na sua mão, depois retorne as outras duas para o topo da pilha de compras em qualquer ordem."
+  },
+  {
+    "card_id": 87,
+    "card_name": "Necromancer Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Second Edition Base Deck",
+    "card_path": "/second_edition_base_deck/magical_unicorn/necromancer_unicorn.png",
+    "card_uri": "",
+    "card_effect": "Quando esta carta entrar no seu estábulo, você PODE descartar duas cartas de unicórnio e depois trazer um unicórnio da pilha de descartes para o seu estábulo."
+  },
+  {
+    "card_id": 88,
+    "card_name": "Dark Angel Unicorn",
+    "card_type_id": 2,
+    "card_type": "Unicórnio Mágico",
+    "card_edition": "Second Edition Base Deck",
+    "card_path": "/second_edition_base_deck/magical_unicorn/dark_angel_unicorn.png",
+    "card_uri": "",
+    "card_effect": "Quando esta carta entrar no seu estábulo, você PODE sacrificar uma carta de unicórnio e depois trazer uma carta de unicórnio da pilha de descartes para o seu estábulo."
+  },
+  {
+    "card_id": 89,
+    "card_name": "Kiss of Life",
+    "card_type_id": 3,
+    "card_type": "Mágica",
+    "card_edition": "Second Edition Base Deck",
+    "card_path": "/second_edition_base_deck/magic/kiss_of_life.png",
+    "card_uri": "",
+    "card_effect": "Traga uma carta de unicórnio da pilha de descartes para o seu estábulo."
+  },
+  {
+    "card_id": 90,
+    "card_name": "Claw Machine",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Second Edition Base Deck",
+    "card_path": "/second_edition_base_deck/upgrade/claw_machine.png",
+    "card_uri": "",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar uma carta e depois comprar uma carta."
+  },
+  {
+    "card_id": 91,
+    "card_name": "Stable Artillery",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Second Edition Base Deck",
+    "card_path": "/second_edition_base_deck/upgrade/stable_artillery.png",
+    "card_uri": "",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar duas cartas e depois destruir uma carta de unicórnio."
+  },
+  {
+    "card_id": 92,
+    "card_name": "Caffeine Overload",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Second Edition Base Deck",
+    "card_path": "/second_edition_base_deck/upgrade/caffeine_overload.png",
+    "card_uri": "",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta e depois comprar duas cartas."
+  },
+  {
+    "card_id": 93,
+    "card_name": "Rainbow Lasso",
+    "card_type_id": 5,
+    "card_type": "Encantamento",
+    "card_edition": "Second Edition Base Deck",
+    "card_path": "/second_edition_base_deck/upgrade/rainbow_lasso.png",
+    "card_uri": "",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar três cartas e depois roubar uma carta de unicórnio."
+  }
 ]
