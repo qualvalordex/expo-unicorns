@@ -5,6 +5,9 @@ const colors =  {
     white: '#FFF',
     lighter: '#EEE',
     light: '#CCC',
+    regular: '#AAA',
+    dark: '#888',
+    darker: '#666',
 
     translucid: '#FFFFFFAA'
 };

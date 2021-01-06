@@ -23,7 +23,7 @@ const Menu = ({ navigation }) => (
         <Button
             icon = 'ios-information-circle'
             text = 'SOBRE'
-            action = { () => alert('Em desenvolvimento...') }
+            action = { () => navigation.navigate('About') }
         />
     </View>
 );
