@@ -18,7 +18,6 @@ const SearchBar = ({ navigation, children }) => {
                 placeholder = { children }
                 placeholderTextColor = { colors.primary }
                 onChangeText = { text => setText(text) }
-                defaultValue = { text }
             />
             
             <TouchableOpacity
