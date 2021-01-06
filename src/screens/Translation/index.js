@@ -1,8 +1,9 @@
 import React from 'react';
 
-import { Image } from 'react-native';
+import { Image, StatusBar } from 'react-native';
 
 import styles from './styles';
+import { colors } from '../../styles';
 
 import Background from '../../components/Background';
 import Header from '../../components/Header';
@@ -14,6 +15,10 @@ const Translation = ({ navigation, route }) => (
     <Background
         style = {{ justifyContent: null, alignItems: 'center' }}
     >
+        <StatusBar
+                backgroundColor = {colors.primaryTranslucid}
+                translucent = { false }
+        />
         <Header
             navigation = { navigation }
         >

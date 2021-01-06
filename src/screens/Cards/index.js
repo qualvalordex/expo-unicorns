@@ -1,8 +1,9 @@
 import React from 'react';
 
-import { ScrollView } from 'react-native';
+import { ScrollView, StatusBar } from 'react-native';
 
 import styles from './styles';
+import { colors } from '../../styles'
 
 import Background from '../../components/Background';
 import Header from '../../components/Header';
@@ -25,6 +26,10 @@ const Cards = ({ navigation, route }) => {
 
     return (
         <Background style = { styles.bg }>
+            <StatusBar
+                backgroundColor = {colors.primaryTranslucid}
+                translucent = { false }
+            />
             <Header
                 navigation = { navigation }
             >

@@ -1,8 +1,9 @@
 import React from 'react';
 
-import { View, Text, Image } from 'react-native';
+import { View, Text, Image, StatusBar } from 'react-native';
 
 import styles from './styles';
+import { colors } from '../../styles';
 
 import Background from '../../components/Background';
 import SearchBar from '../../components/SearchBar';
@@ -10,6 +11,11 @@ import Menu from '../../components/Menu';
 
 const Home = ({ navigation }) => (
     <Background style = { styles.bg }>
+        <StatusBar
+            backgroundColor = 'transparent'
+            translucent = { true }
+            barStyle = 'dark-content'
+        />
         <View style = { styles.logoContainer }>
             <Image
                 style = { styles.logoImage }
