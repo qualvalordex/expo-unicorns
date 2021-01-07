@@ -1,6 +1,6 @@
 import json
 
-with open('../../data/uucards.json') as json_file:
+with open('../../data/uucards.json', encoding='utf8') as json_file:
     data = json.load(json_file)
 
 f = "export default function getCardImage(cardID) {\n\tswitch(cardID) {\n"
