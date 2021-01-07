@@ -33,7 +33,7 @@ const Cards = ({ navigation, route }) => {
             <Header
                 navigation = { navigation }
             >
-                CARTAS
+                CARTAS ({ cards.length })
             </Header>
             
             <ScrollView>
