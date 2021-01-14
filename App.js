@@ -7,6 +7,7 @@ const Stack = createStackNavigator();
 
 import Home from './src/screens/Home';
 import Cards from './src/screens/Cards';
+import Expansions from './src/screens/Expansions';
 import Translation from './src/screens/Translation';
 import About from './src/screens/About';
 
@@ -37,6 +38,7 @@ function App() {
       <Stack.Navigator>
         <Stack.Screen name='Home' component={Home} options={{headerShown: false}} />
         <Stack.Screen name='Cards' component={Cards} options={{headerShown: false}} />
+        <Stack.Screen name='Expansions' component={Expansions} options={{headerShown: false}} />
         <Stack.Screen name='Translation' component={Translation} options={{headerShown: false}} />
         <Stack.Screen name='About' component={About} options={{headerShown: false}} />
       </Stack.Navigator>
