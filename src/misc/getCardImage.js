@@ -386,6 +386,46 @@ export default function getCardImage(cardID) {
 			return require('../../assets/images/control_base_deck/downgrade/unicorn_abduction.png');
 		case 193:
 			return require('../../assets/images/control_base_deck/downgrade/unicorn_tax.png');
+		case 194:
+			return require('../../assets/images/chaos_base_deck/ultimate_unicorn/epic_level_unicorn.png');
+		case 195:
+			return require('../../assets/images/chaos_base_deck/ultimate_unicorn/frankencorn.png');
+		case 196:
+			return require('../../assets/images/chaos_base_deck/ultimate_unicorn/manticore_unicorn.png');
+		case 197:
+			return require('../../assets/images/chaos_base_deck/ultimate_unicorn/nightmare_unicorn.png');
+		case 198:
+			return require('../../assets/images/chaos_base_deck/ultimate_unicorn/puppetmaster_unicorn.png');
+		case 199:
+			return require('../../assets/images/chaos_base_deck/ultimate_unicorn/shadow_unicorn.png');
+		case 200:
+			return require('../../assets/images/chaos_base_deck/ultimate_unicorn/the_reaper_unicorn.png');
+		case 201:
+			return require('../../assets/images/chaos_base_deck/ultimate_unicorn/unicorn_of_foreboding_doom.png');
+		case 202:
+			return require('../../assets/images/chaos_base_deck/ultimate_unicorn/unicorn_of_misfortune.png');
+		case 203:
+			return require('../../assets/images/chaos_base_deck/ultimate_unicorn/valkyrie_unicorn.png');
+		case 204:
+			return require('../../assets/images/chaos_base_deck/magical_unicorn/sniper_unicorn.png');
+		case 205:
+			return require('../../assets/images/chaos_base_deck/magical_unicorn/unicorn_of_betrayal.png');
+		case 206:
+			return require('../../assets/images/chaos_base_deck/magic/kittencorn_burglar.png');
+		case 207:
+			return require('../../assets/images/chaos_base_deck/magic/nightmares_conjuring.png');
+		case 208:
+			return require('../../assets/images/chaos_base_deck/instant/absorb_and_reflect.png');
+		case 209:
+			return require('../../assets/images/chaos_base_deck/instant/intervention.png');
+		case 210:
+			return require('../../assets/images/chaos_base_deck/instant/redirect.png');
+		case 211:
+			return require('../../assets/images/chaos_base_deck/instant/trapped_chest.png');
+		case 212:
+			return require('../../assets/images/chaos_base_deck/upgrade/nightmare_pact.png');
+		case 213:
+			return require('../../assets/images/chaos_base_deck/downgrade/tollbooth.png');
 		default:
 			return require('../../assets/images/unicorn_not_found.png');
 	}
