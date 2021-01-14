@@ -1,10 +1,13 @@
+// React Native core
 import { StyleSheet, Dimensions } from 'react-native';
 
+// Styles
 import { fonts, colors } from '../../styles';
 
-const dim = Dimensions.get('window');
+// Get screen dimensions
+const dim = Dimensions.get('screen');
 
-const styles = StyleSheet.create({
+export default StyleSheet.create({
     container: {
         alignItems: 'center',
         justifyContent: 'center',
@@ -31,5 +34,3 @@ const styles = StyleSheet.create({
         backgroundColor: colors.translucid
     },
 });
-
-export default styles;

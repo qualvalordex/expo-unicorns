@@ -18,6 +18,7 @@ export default function Home ({ navigation }) {
                 translucent = { true }
                 barStyle = 'dark-content'
             />
+            
             <View style = { styles.logoContainer }>
                 <Image
                     style = { styles.logoImage }

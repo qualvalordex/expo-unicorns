@@ -1,8 +1,10 @@
-import { StyleSheet, StatusBar, Platform } from 'react-native';
+// React Native core
+import { StyleSheet } from 'react-native';
 
+// Styles
 import { fonts, colors } from '../../styles';
 
-const styles = StyleSheet.create({
+export default StyleSheet.create({
     container: {
         height: 60,
         width: '100%',
@@ -23,5 +25,3 @@ const styles = StyleSheet.create({
         color: colors.white
     },
 });
-
-export default styles;

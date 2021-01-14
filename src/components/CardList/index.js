@@ -1,12 +1,14 @@
-import React, { Component } from 'react';
-
+// React & React Native core
+import React from 'react';
 import { View } from 'react-native';
 
-import Card from './Card';
-
+// Styles
 import styles from './styles';
 
-const CardList = ({ navigation, data }) => {
+// My components
+import Card from './Card';
+
+export default function CardList ({ navigation, data }) {
     return (
         <View style = { styles.container }>
             {
@@ -21,5 +23,3 @@ const CardList = ({ navigation, data }) => {
         </View>
     );
 }
-
-export default CardList;

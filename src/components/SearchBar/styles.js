@@ -1,10 +1,13 @@
+// React Native core
 import { StyleSheet, Dimensions } from 'react-native';
 
+// Styles
 import { fonts, colors } from '../../styles';
 
-const dim = Dimensions.get('window');
+// Get screen dimensions
+const dim = Dimensions.get('screen');
 
-const styles = StyleSheet.create({
+export default StyleSheet.create({
     searchBarContainer: {
         flexDirection: 'row',
         justifyContent: 'space-between',
@@ -40,5 +43,3 @@ const styles = StyleSheet.create({
         color: colors.white
     },
 });
-
-export default styles;

@@ -1,14 +1,15 @@
+// React & React Native core
 import React, { useState } from 'react';
-
 import { TextInput, View, TouchableOpacity, Text } from 'react-native';
 
+// Icons
 import { Ionicons } from '@expo/vector-icons';
 
-import { colors } from '../../styles'
+// Styles
+import styles from './styles';
+import { colors } from '../../styles';
 
-import styles from './styles'
-
-const SearchBar = ({ navigation, children }) => { 
+export default function SearchBar ({ navigation, children }) { 
     const [text, setText] = useState('');
 
     return (
@@ -33,5 +34,3 @@ const SearchBar = ({ navigation, children }) => {
         </View>
     );
 }
-
-export default SearchBar;

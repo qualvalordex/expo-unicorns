@@ -1,8 +1,10 @@
+// React Native core
 import { StyleSheet } from 'react-native';
 
+// Styles
 import { fonts, colors } from '../../../styles';
 
-const styles = StyleSheet.create({
+export default StyleSheet.create({
     container: {
         justifyContent: 'center',
         alignItems: 'center',
@@ -24,5 +26,3 @@ const styles = StyleSheet.create({
         color: colors.white
     },
 });
-
-export default styles;

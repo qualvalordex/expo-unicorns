@@ -1,15 +1,13 @@
+// React & React Native core
 import { StyleSheet, Dimensions } from 'react-native';
 
-import { fonts, colors } from '../../styles';
+// Get screen dimensions
+const dim = Dimensions.get('screen');
 
-const dim = Dimensions.get('window');
-
-const styles = StyleSheet.create({
+export default StyleSheet.create({
     container: {
         width: dim.width - 60,
         flexDirection: 'row',
         justifyContent: 'space-between'
     },
 });
-
-export default styles;

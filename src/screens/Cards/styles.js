@@ -1,9 +1,8 @@
+// React Native core
 import { StyleSheet } from 'react-native';
 
-const styles = StyleSheet.create({
+export default StyleSheet.create({
     bg: {
         alignItems: 'center'
     },
 });
-
-export default styles;

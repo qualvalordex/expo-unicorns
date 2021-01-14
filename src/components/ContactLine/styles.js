@@ -1,8 +1,10 @@
+// React Native core
 import { StyleSheet } from 'react-native';
 
+// Styles
 import { fonts, colors } from '../../styles';
 
-const styles = StyleSheet.create({
+export default StyleSheet.create({
     container: {
         flexDirection: 'row',
         alignItems: 'center',
@@ -21,5 +23,3 @@ const styles = StyleSheet.create({
 
     },
 });
-
-export default styles;

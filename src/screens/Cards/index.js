@@ -1,17 +1,20 @@
+// React & React Native core
 import React from 'react';
-
 import { ScrollView, StatusBar } from 'react-native';
 
+// Styles
 import styles from './styles';
 import { colors } from '../../styles'
 
+// My components
 import Background from '../../components/Background';
 import Header from '../../components/Header';
 import CardList from '../../components/CardList';
 
+// Requiring JSON file
 const cardData = require('../../../data/uucards.json');
 
-/* Filtering data from search */
+// Filtering data from search
 function filterByQuery(query) {
     return cardData.filter(x => x.card_name.toLowerCase().includes(query.toLowerCase()))
 };
