@@ -1086,7 +1086,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/academicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entrar no seu estábulo, você PODE mover uma carta de Upgrade do seu estábulo para o estábulo de outro jogador. Se você fizer isso, roube uma carta de Upgrade do estábulo do mesmo jogador."
   },
   {
     "card_id": 122,
@@ -1095,7 +1095,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/alchemist_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entrar no seu estábulo, você pode escolher qualquer jogador. Destrua uma carta de unicórnio do estábulo desse jogador, então procure na pilha de compras por uma carta de unicórnio e coloque no estábulo dele. Embaralhe a pilha de compras."
   },
   {
     "card_id": 123,
@@ -1104,7 +1104,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/dingocorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entrar no seu estábulo, você pode retornar os bebês unicornios de todos jogadores para a enfermaria."
   },
   {
     "card_id": 124,
@@ -1113,7 +1113,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/dread_pirate_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Cada vez que determinado jogador for descartar uma carta, este jogador deve descartar duas cartas em vez de uma."
   },
   {
     "card_id": 125,
@@ -1122,7 +1122,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/excited_sealicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entrar no seu estábulo, você pode descartar uma carta. Se você fizer isso, traga uma carta de Upgrade da sua mão diretamente para seu estábulo."
   },
   {
     "card_id": 126,
@@ -1131,7 +1131,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/fortune_teller_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entrar no seu estábulo, você pode olhar as três primeiras cartas da pilha de compras. Mova qualquer número dessas cartas para a pilha de descarte, então retorne o resto para o topo da pilha de compras, em qualquer ordem."
   },
   {
     "card_id": 127,
@@ -1140,7 +1140,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/foxicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entrar no seu estábulo, você pode escolher qualquer jogador. Este jogador deve embaralhar a mão na pilha de compras e comprar três cartas."
   },
   {
     "card_id": 128,
@@ -1149,7 +1149,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/golden_retrievercorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entrar no seu estábulo, você pode procurar na pilha de compras por uma carta de Upgrade e colocar no seu estábulo, então, embaralhe a pilha de compras. Se fizer isso, todos jogadores devem comprar uma carta."
   },
   {
     "card_id": 129,
@@ -1158,7 +1158,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/hypnocorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando qualquer outro jogador tentar usar o efeito de uma carta de unicórnio, você pode descartar uma carta. Se você fizer isso, pare o efeito da carta."
   },
   {
     "card_id": 130,
@@ -1167,7 +1167,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/lady_justice_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entrar no seu estábulo, você pode mover uma carta de unicórnio do estábulo com maior número de unicórnios para o estábulo com menor número de unicórnios."
   },
   {
     "card_id": 131,
@@ -1176,7 +1176,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/mama_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entrar no seu estábulo, você pode descartar uma carta. Se você fizer isso, traga um bebê unicórnio da enfermaria direto para seu estábulo."
   },
   {
     "card_id": 132,
@@ -1185,7 +1185,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/mutually_assured_destructicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se essa carta for sacrificada ou descartada, cada jogador deverá sacrificar uma carta."
   },
   {
     "card_id": 133,
@@ -1194,7 +1194,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/nannycorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode trazer um bebê unicórnio da enfermaria diretamente para seu estábulo. Se fizer isso, não jogue uma carta da sua mão durante sua fase de ação."
   },
   {
     "card_id": 134,
@@ -1203,7 +1203,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/nymphicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, cada jogador que não tiver uma carta de unicórnio mágico no seu estábulo deve descartar uma carta."
   },
   {
     "card_id": 135,
@@ -1212,7 +1212,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/parallel_universicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Cada vez que um jogador for descartar uma carta, esse jogador deve comprar uma carta em vez de descartar, se não tiver atingido o limite de cartas na mão."
   },
   {
     "card_id": 136,
@@ -1221,7 +1221,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/patient_zero_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Cada vez que um jogador for sacrificar uma carta, esse jogador deve sacrificar duas cartas em vez de uma."
   },
   {
     "card_id": 137,
@@ -1230,7 +1230,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/pickpocket_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta sair do seu estábulo, você pode escolher qualquer outro jogador. pegue uma carta da mão desse jogador e coloque na sua mão."
   },
   {
     "card_id": 138,
@@ -1239,7 +1239,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/pied_pipercorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando qualquer outro jogador tentar trazer uma carta de unicórnio bebê da enfermaria para o estábulo dele, você pode descartar uma carta. Se fizer isso, traga aquela carta de unicórnio bebê diretamente para o seu estábulo."
   },
   {
     "card_id": 139,
@@ -1248,7 +1248,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/regifting_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, você pode mover uma carta de maldição do seu estábulo para o de qualquer outro jogador."
   },
   {
     "card_id": 140,
@@ -1257,7 +1257,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/sacrificial_lambicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta. Se fizer isso, descarte sua mão e compre cinco cartas."
   },
   {
     "card_id": 141,
@@ -1266,7 +1266,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/slothicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Os efeitos das suas cartas de unicórnio mágio não ativam."
   },
   {
     "card_id": 142,
@@ -1275,7 +1275,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/spy_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, escolha qualquer outro jogador. Aquele jogador deve mostrar a mão dele pra você."
   },
   {
     "card_id": 143,
@@ -1284,7 +1284,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/traffic_director_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode mover uma carta de encantamento ou maldição do estábulo de qualquer jogador para o estábulo de qualquer outro jogador. Se fizer isso, pule sua fase de ação."
   },
   {
     "card_id": 144,
@@ -1293,7 +1293,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/trojan_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando qualquer outro jogador jogar uma carta de unicórnio, você pode sacrificar esta carta. Se fizer isso, roube aquela carta de unicórnio."
   },
   {
     "card_id": 145,
@@ -1302,7 +1302,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/twin_unicorns.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar uma carta. Se fizer isso, jogue duas cartas durante a sua fase de ação."
   },
   {
     "card_id": 146,
@@ -1311,7 +1311,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/unicorn_of_charity.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode comprar uma carta extra. Se fizer isso, cada outro jogador PODE comprar uma carta."
   },
   {
     "card_id": 147,
@@ -1320,7 +1320,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/unicorn_prophet.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode olhar as duas cartas do topo da pilha de compras e retorná-las na mesma ordem."
   },
   {
     "card_id": 148,
@@ -1329,7 +1329,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/unicorn_trap_master.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE descartar uma carta. Se fizer isso, traga uma carta de maldição da sua mão diretamente para o estábulo de qualquer outro jogador."
   },
   {
     "card_id": 149,
@@ -1338,7 +1338,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magical_unicorn/wrecking_ball_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Esta carta não pode ser negada."
   },
   {
     "card_id": 150,
@@ -1347,7 +1347,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/archangels_blessing.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Sacrifique uma carta de unicórnio, uma carta de encantamento e uma carta de maldição. Procure na pilha de compras por uma carta de unicórnio e uma carta de encantamento e coloque-as diretamente no seu estábulo."
   },
   {
     "card_id": 151,
@@ -1356,7 +1356,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/controlled_destruction.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Destrua uma carta do estábulo de qualquer jogador sem ativar nenhum dos seus efeitos."
   },
   {
     "card_id": 152,
@@ -1365,7 +1365,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/grow_up.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Sacrifique uma carta de unicórnio bebê e então procure na pilha de compras por uma carta de unicórnio e coloque-a diretamente no seu estábulo. Embaralhe a pilha de compras."
   },
   {
     "card_id": 153,
@@ -1374,7 +1374,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/merry_go_round.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Cada jogador DEVE passar a sua mão para o jogador à sua esquerda."
   },
   {
     "card_id": 154,
@@ -1383,7 +1383,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/prospecting.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Vire uma carta por vez do topo do baralho na pilha de descartes até encontrar uma carta de unicórnio. Traga-a diretamente para o seu estábulo."
   },
   {
     "card_id": 155,
@@ -1392,7 +1392,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/quid_pro_quo.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Compre quatro cartas e então descarte quatro cartas."
   },
   {
     "card_id": 156,
@@ -1401,7 +1401,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/rainbow_bazooka.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Escolha qualquer outro jogador e destrua uma carta de unicórnio do estábulo dele. Você e aquele jogador PODEM comprar uma carta cada."
   },
   {
     "card_id": 157,
@@ -1410,7 +1410,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/rainbow_bridge.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Compre uma carta. Se for uma carta de encantamento, maldição ou de unicórnio, traga-a diretamente para o seu estábulo e então compre outra carta."
   },
   {
     "card_id": 158,
@@ -1419,7 +1419,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/spring_cleaning.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Descarte qualquer número de cartas. Escolha um número de jogadores igual ao número de cartas descartadas e então destrua uma carta de unicórnio do estábulo de cada um deles."
   },
   {
     "card_id": 159,
@@ -1428,7 +1428,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/temporal_paradox.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Retorne uma carta do estábulo de qualquer jogador para a mão dele e compre uma carta."
   },
   {
     "card_id": 160,
@@ -1437,7 +1437,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/time_rift.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Escolha qualquer jogador. Retorne todas as cartas do estábulo dele para a mão dele e imediatamente traga as mesmas cartas diretamente no estábulo dele."
   },
   {
     "card_id": 161,
@@ -1446,7 +1446,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/totally_not_two_unicorns.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Compre uma carta e então jogue duas cartas da sua mão. Pule o seu próximo turno."
   },
   {
     "card_id": 162,
@@ -1455,7 +1455,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/unicorn_black_market.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Escolha qualquer outro jogador. Escolha duas cartas da mão daquele jogador e coloque-as na sua mão. Aquele jogador pode escolher uma carta da sua mão para adicioná-la a mão dele. Aquele jogador não pode escolehr nenhuma das cartas que você escolheu."
   },
   {
     "card_id": 163,
@@ -1464,7 +1464,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/unicorn_trap.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Roube uma carta de unicórnio."
   },
   {
     "card_id": 164,
@@ -1473,7 +1473,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/unicorns_forever.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Embaralhe a pilha de descartes na pilha de compras. Procure na pilha de compras por uma carta de unicórnio e traga-a diretamente para o seu estábulo. Embaralhe a pilha de compras. Cada outro jogador PODE comprar uma carta."
   },
   {
     "card_id": 165,
@@ -1482,7 +1482,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/unicornucopia.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Compre cartas até você atingir o seu limite de cartas na mão. Cada outro jogador PODE comprar duas cartas."
   },
   {
     "card_id": 166,
@@ -1491,7 +1491,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/wishing_well.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Descarte uma carta e  então compre três cartas."
   },
   {
     "card_id": 167,
@@ -1500,7 +1500,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/magic/yoink.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Roube uma carta de encantamento ou maldição."
   },
   {
     "card_id": 168,
@@ -1509,7 +1509,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/instant/bulletproof_vest.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar destruir uma carta no seu estábulo. Pare o efeito de destruição e compre uma carta ao invés disso."
   },
   {
     "card_id": 169,
@@ -1518,7 +1518,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/instant/destabilize.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta de encantamento ou maldição. Escolha o estábulo que aquela carta irá entrar."
   },
   {
     "card_id": 170,
@@ -1527,7 +1527,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/instant/imitation.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta de unicórnio. Traga uma carta de unicórnio básico da sua mão diretamente para o seu estábulo."
   },
   {
     "card_id": 171,
@@ -1536,7 +1536,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/instant/neigh_angel.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare a ação daquele jogador e coloque a carta jogada por ele diretamente na pilha de descartes."
   },
   {
     "card_id": 172,
@@ -1545,7 +1545,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/instant/neigh_demon.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare a ação daquele jogador e coloque a carta jogada por ele diretamente na pilha de descartes."
   },
   {
     "card_id": 173,
@@ -1554,7 +1554,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/instant/super_neigh_cec.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare a ação daquele jogador e coloque a carta jogada por ele diretamente na pilha de descartes. Esta carta não pode ser negada."
   },
   {
     "card_id": 174,
@@ -1563,7 +1563,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/instant/unwind_and_rewind.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare a ação daquela carta e então adicione-a ao topo da pilha de compras."
   },
   {
     "card_id": 175,
@@ -1572,7 +1572,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/upgrade/controlled_chaos.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode descartar duas cartas. Se fizer isso, destrua uma carta de unicórnio OU procure uma carta de unicórnio na pilha de compras e coloque-a na sua mão. Embaralhe a pilha de compras."
   },
   {
     "card_id": 176,
@@ -1581,7 +1581,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/upgrade/extra_life.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se uma carta de unicórnio for sacrificada ou destruída, você pode sacrificar esta carta. Se fizer isso, traga aquela carta da pilha de descartes diretamente para o seu estábulo."
   },
   {
     "card_id": 177,
@@ -1590,7 +1590,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/upgrade/foresight.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode olhar as três primeiras cartas do topo da pilha de compras. Se você fizer isso, coloque uma delas na sua mão e então embaralhe as outras duas novamente na pilha de compras e pule sua fase de compra."
   },
   {
     "card_id": 178,
@@ -1599,7 +1599,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/upgrade/glass_half_full.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Cada vez que uma carta de maldição entra no seu estábulo, você pode procurar por uma carta de encantamento e colocá-la diretamente no seu estábulo. Embaralhe a pilha de compras."
   },
   {
     "card_id": 179,
@@ -1608,7 +1608,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/upgrade/imaginary_friendicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se você tiver uma carta de unicórnio bebê no seu estábulo, você precisa de menos um unicórnio para vencer."
   },
   {
     "card_id": 180,
@@ -1617,7 +1617,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/upgrade/objection.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando qualquer outro jogador tentar jogar um Neigh, você pode descartar uma carta. Se fizer isso, pare a ação daquele jogador e retorne a carta Neigh para a mão dele. Aquele jogador não poderá jogar uma carta Neigh neste turno."
   },
   {
     "card_id": 181,
@@ -1626,7 +1626,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/upgrade/retribution.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Cada vez que qualquer outro jogador destruir uma carta de unicórnio do seu estábulo, você PODE destruir uma carta de unicórnio do estábulo daquele jogador."
   },
   {
     "card_id": 182,
@@ -1635,7 +1635,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/upgrade/unicorn_adoption_agency.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se você tiver duas ou mais cartas de unicórnio básico no seu estábulo no começo do seu turno, você pode descartar uma carta. Se você fizer isso, traga uma carta de unicórnio bebê da enfermaria diretamente para o seu estábulo"
   },
   {
     "card_id": 183,
@@ -1644,7 +1644,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/upgrade/unicorn_bribe.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se uma das suas cartas de unicórnio for sacrificada ou destruída, você PODE sacrificar uma carta de encantamento ou maldição ao invés disso."
   },
   {
     "card_id": 184,
@@ -1653,7 +1653,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/upgrade/unicorn_mafia.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode descartar duas cartas. Se fizer isso, sacrifique ou destrua uma carta."
   },
   {
     "card_id": 185,
@@ -1662,7 +1662,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/downgrade/anti_magic_bubble.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique todas as suas cartas de maldição. Você não pode jogar cartas de mágica. Se uma carta de maldição entrar no seu estábulo, sacrifique esta carta."
   },
   {
     "card_id": 186,
@@ -1671,7 +1671,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/downgrade/black_hole.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, sacrifique uma carta de unicórnio mágico. Procure na pilha de compras por uma carta de unicórnio básico e coloque-a diretamente no seu estábulo. Embaralhe a pilha de compras."
   },
   {
     "card_id": 187,
@@ -1680,7 +1680,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/downgrade/brain_freeze.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Você não pode jogar cartas instantâneas."
   },
   {
     "card_id": 188,
@@ -1689,7 +1689,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/downgrade/catastrophe.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Todos os seus unicórnios são considerados Gatos. Cartas que afetam cartas de unicórnios não afetam seus gatos."
   },
   {
     "card_id": 189,
@@ -1698,7 +1698,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/downgrade/greener_pastures.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode descartar três cartas. Se fizer isso, sacrifique esta carta. Se você não o fizer, mova uma carta de unicórnio do seu estábulo para o estábulo de qualquer outro jogador."
   },
   {
     "card_id": 190,
@@ -1707,7 +1707,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/downgrade/otter_devastation.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Todos os seus unicórnios são considerados lontras. Cartas que afetam cartas de unicórnio não afetam suas lontras."
   },
   {
     "card_id": 191,
@@ -1716,7 +1716,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/downgrade/restricted_area.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique todas as cartas de maldição. Você não pdoe jogar cartas de unicórnios mágicos. Se uma carta de maldição entrar no seu estábulo, sacrifique esta carta."
   },
   {
     "card_id": 192,
@@ -1725,7 +1725,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/downgrade/unicorn_abduction.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, embaralhe uma carta de unicórnio do seu estábulo na pilha de compras e então compre uma carta. Se a qualquer momento  você não tiver cartas de unicórnio no seu estábulo, sacrifique esta carta."
   },
   {
     "card_id": 193,
@@ -1734,7 +1734,7 @@
     "card_expansion": false,
     "card_edition": "Control Base Deck",
     "card_path": "/control_base_deck/downgrade/unicorn_tax.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Cada vez que você comprar pelo menos uma carta, descarte uma carta."
   },
   {
     "card_id": 194,
@@ -1743,7 +1743,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/ultimate_unicorn/epic_level_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique duas cartas de unicórnio. Cada vez que você destruir uma carta, você pode destruir uma segunda carta."
   },
   {
     "card_id": 195,
@@ -1752,7 +1752,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/ultimate_unicorn/frankencorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, descarte uma carta. Quando qualquer outro jogador tentar jogar uma carta, você PODE sacrificar esta carta. Se fizer isso, adicione aquela carta a sua mão e imediatamente jogue-a."
   },
   {
     "card_id": 196,
@@ -1761,7 +1761,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/ultimate_unicorn/manticore_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique duas cartas. Se esta carta estiver no seu estábulo no início do seu turno, você PODE escolher uma carta da pilha de descartes e colocá-la na sua mão. Se fizer isso, pule sua fase de compra."
   },
   {
     "card_id": 197,
@@ -1770,7 +1770,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/ultimate_unicorn/nightmare_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique três cartas. Se esta carta estiver no seu estábulo no início do seu turno, você PODE escolher uma carta de unicórnio da pilha de descartes e colocá-la diretamente no seu estábulo."
   },
   {
     "card_id": 198,
@@ -1779,7 +1779,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/ultimate_unicorn/puppetmaster_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, descarte uma carta. Cada vez que você descartar uma carta, você pode escolher até dois outros jogadores. Cada um desses jogadores DEVE descartar uma carta também."
   },
   {
     "card_id": 199,
@@ -1788,7 +1788,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/ultimate_unicorn/shadow_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique uma carta de unicórnio. Quando uma carta de unicórnio do estábulo de qualquer outro jogador for sacrificada ou retornada para a mão dele, você pode descartar até duas cartas. Se você descartar uma carta, adicione aquela carta a sua mão instantaneamente. Se você descartar duas cartas, traga aquela carta diretamente para o seu estábulo."
   },
   {
     "card_id": 200,
@@ -1797,7 +1797,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/ultimate_unicorn/the_reaper_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique uma carta de unicórnio. Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta de encantamento e então destruir duas cartas de unicórnio."
   },
   {
     "card_id": 201,
@@ -1806,7 +1806,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/ultimate_unicorn/unicorn_of_foreboding_doom.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique uma carta de unicórnio. Quando qualquer outro jogador jogar uma carta de encantamento no estábulo dele, você PODE descartar uma carta. Se fizer isso, procure na pilha de compras por uma carta de maldição e coloque-a diretamente no estábulo daquele jogador. Embaralhe a pilha de compras."
   },
   {
     "card_id": 202,
@@ -1815,7 +1815,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/ultimate_unicorn/unicorn_of_misfortune.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, descarte duas cartas. Se esta carta estiver no seu estábulo no início do seu turno, cada outro jogador DEVE descartar uma carta."
   },
   {
     "card_id": 203,
@@ -1824,7 +1824,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/ultimate_unicorn/valkyrie_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique uma carta de unicórnio. Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta de unicórnio. Se fizer isso, traga uma carta de unicórnio da pilha de descartes diretamente para o seu estábulo."
   },
   {
     "card_id": 204,
@@ -1833,7 +1833,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/magical_unicorn/sniper_unicorn.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seuturno, você PODE destruir uma carta de encantamento. Se fizer isso, pule sua fase de ação."
   },
   {
     "card_id": 205,
@@ -1842,7 +1842,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/magical_unicorn/unicorn_of_betrayal.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE destruir uma carta de unicórnio. Se Unicorn of Betrayal for destruída por uma carta de qualquer outro jogador, aquele jogador PODE roubá-la ao invés disso."
   },
   {
     "card_id": 206,
@@ -1851,7 +1851,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/magic/kittencorn_burglar.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Descarte uma carta e então escolha duas cartas da pilha de descartes. Adicione-as a sua mão."
   },
   {
     "card_id": 207,
@@ -1860,7 +1860,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/magic/nightmares_conjuring.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Descarte uma carta e então escolha uma carta da pilha de descartes e coloque-a diretamente no seu estábulo."
   },
   {
     "card_id": 208,
@@ -1869,7 +1869,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/instant/absorb_and_reflect.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta de mágica. Pare a ação daquela carta, coloque-a na sua mão e imediatamente jogue-a."
   },
   {
     "card_id": 209,
@@ -1878,7 +1878,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/instant/intervention.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar sacrificar uma carta. Pare o efeito de sacrifício e escolha qualquer jogador. Sacrifique ou destrua uma carta do estábulo do jogador escolhido."
   },
   {
     "card_id": 210,
@@ -1887,7 +1887,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/instant/redirect.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando um efeito for destruir uma carta de unicórnio. Escolha o alvo do efeito da destruição."
   },
   {
     "card_id": 211,
@@ -1896,7 +1896,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/instant/trapped_chest.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar comprar uma carta. Pare a compra daquela carta. Aquele jogador DEVE descartar a carta instantaneamente."
   },
   {
     "card_id": 212,
@@ -1905,7 +1905,7 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/upgrade/nightmare_pact.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Quando esta carta entra no seu estábulo, diga um tipo de carta. Se esta carta estiver no seu estábulo no início do seu turno, você PODE trazer uma carta deste tipo da pilha de descartes diretamente para o seu estábulo e imediatamente pular a sua fase de fim de turno."
   },
   {
     "card_id": 213,
@@ -1914,6 +1914,816 @@
     "card_expansion": false,
     "card_edition": "Chaos Base Deck",
     "card_path": "/chaos_base_deck/downgrade/tollbooth.png",
-    "card_effect": "TRADUÇÃO INDISPONÍVEL"
+    "card_effect": "Cada vez que você jogar uma carta de unicórnio da sua mão, descarte uma carta."
+  },
+  {
+    "card_id": 214,
+    "card_name": "Baby Unicorn of Incest",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/baby_unicorn_of_incest.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 215,
+    "card_name": "Bye Bye Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/bye_bye_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 216,
+    "card_name": "Cannibal Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/cannibal_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 217,
+    "card_name": "Conjoined Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/conjoined_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 218,
+    "card_name": "Dumpster Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/dumpster_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 219,
+    "card_name": "Faceless Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/faceless_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 220,
+    "card_name": "Fucking Cute Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/fucking_cute_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 221,
+    "card_name": "Fucking Ugly Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/fucking_ugly_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 222,
+    "card_name": "Pageant Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/pageant_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 223,
+    "card_name": "Shotgun Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/shotgun_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 224,
+    "card_name": "Someone Else's Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/someone_elses_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 225,
+    "card_name": "Tasty Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/tasty_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 226,
+    "card_name": "Upside Down Baby Unicorn",
+    "card_type": "Unicórnio Bebê",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/baby_unicorn/upside_down_baby_unicorn.png",
+    "card_effect": "Se esta carta for sacrificada, destruída ou retornada para a sua mão, ao invés disso, retorne-a para a enfermaria."
+  },
+  {
+    "card_id": 227,
+    "card_name": "Fuckboi Unicorn",
+    "card_type": "Unicórnio Básico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/basic_unicorn/fuckboi_unicorn.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 228,
+    "card_name": "Horse With A Dildo",
+    "card_type": "Unicórnio Básico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/basic_unicorn/horse_with_a_dildo.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 229,
+    "card_name": "Single Unicorn",
+    "card_type": "Unicórnio Básico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/basic_unicorn/single_unicorn.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 230,
+    "card_name": "Stoner Unicorn",
+    "card_type": "Unicórnio Básico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/basic_unicorn/stoner_unicorn.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 231,
+    "card_name": "Unicorn on the Street Corner",
+    "card_type": "Unicórnio Básico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/basic_unicorn/unicorn_on_the_street_corner.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 232,
+    "card_name": "Vanillacorn",
+    "card_type": "Unicórnio Básico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/basic_unicorn/vanillacorn.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 233,
+    "card_name": "Wasted White Unicorn",
+    "card_type": "Unicórnio Básico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/basic_unicorn/wasted_white_unicorn.png",
+    "card_effect": "Sem efeitos especiais."
+  },
+  {
+    "card_id": 234,
+    "card_name": "Bear Daddy Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/bear_daddy_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você pode procurar na pilha de compras por um \"Twinkicorn\". Coloque-o na sua mão e então embaralhe a pilha de compras."
+  },
+  {
+    "card_id": 235,
+    "card_name": "Bukkakecorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/bukkakecorn.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE roubar uma carta de unicórnio. No fim do seu turno, retorne-a para o seu dono."
+  },
+  {
+    "card_id": 236,
+    "card_name": "Cult Leader Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/cult_leader_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, cada jogador deve sacrificar uma carta de unicórnio."
+  },
+  {
+    "card_id": 237,
+    "card_name": "Double Agent Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/double_agent_unicorn.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta de unicórnio básico. Se fizer isso, puxe uma carta da mão de qualquer outro jogador e adicione-a a sua mão."
+  },
+  {
+    "card_id": 238,
+    "card_name": "Dumpster Diving Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/dumpster_diving_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE escolher uma carta da pilha de descartes e adicioná-la a sua mão."
+  },
+  {
+    "card_id": 239,
+    "card_name": "Entitled Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/entitled_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você PODE escolher qualquer outro jogador e olhar a mão dele. Escolha uma carta de unicórnio da mão daquele jogador e coloque-a na sua mão."
+  },
+  {
+    "card_id": 240,
+    "card_name": "Eunuchorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/eunuchorn.png",
+    "card_effect": "Cartas de unicórnio bebê não podem entrar no estábulo de nenhum jogador."
+  },
+  {
+    "card_id": 241,
+    "card_name": "Flesh-Eating Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/flesh_eating_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você pode escolher qualquer jogador. Aquele jogador DEVE descartar duas cartas."
+  },
+  {
+    "card_id": 242,
+    "card_name": "Free Candy Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/free_candy_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, roube uma carta de unicórnio bebê. Se essa carta deixar o seu estábulo, volte o bebê roubado para o seu dono."
+  },
+  {
+    "card_id": 243,
+    "card_name": "Giant Horned Cock",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/giant_horned_cock.png",
+    "card_effect": "Esta carta conta por dois unicórnios. Você não pode jogar cartas de mágica."
+  },
+  {
+    "card_id": 244,
+    "card_name": "Hentaicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/hentaicorn.png",
+    "card_effect": "Se uma das suas cartas de unicórnio for destruída, você PODE sacrificar esta carta ao invés disso."
+  },
+  {
+    "card_id": 245,
+    "card_name": "Homicidal Psychocorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/homicidal_psychocorn.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar sua mão. Se fizer isso, destrua uma carta de unicórnio."
+  },
+  {
+    "card_id": 246,
+    "card_name": "Horny Flying Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/horny_flying_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, roube uma carta de unicórnio. No fim do seu turno, volte a carta roubada para o estábulo do seu dono. Se esta carta for sacrificada ou destruída, volte-a para sua mão ao invés disso."
+  },
+  {
+    "card_id": 247,
+    "card_name": "Kittencorn in Heat",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/kittencorn_in_heat.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE descartar uma carta. Se fizer isso, traga uma carta de unicórnio bebê da enfermaria diretamente para o seu estábulo."
+  },
+  {
+    "card_id": 248,
+    "card_name": "Manscaped Llamacorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/manscaped_llamacorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, cada outro jogador DEVE descartar uma carta."
+  },
+  {
+    "card_id": 249,
+    "card_name": "Moist Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/moist_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você pode procurar na pilha de compras por uma carta de unicórnio e adicioná-la a sua mão. Embaralhe a pilha de compras."
+  },
+  {
+    "card_id": 250,
+    "card_name": "Mother Fuckin' Flying Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/mother_fuckin_flying_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você pode escolher qualquer jogador. Aquele jogador DEVE descartar uma carta. Se esta carta for sacrificada ou destruida, retorne-a para a sua mão ao invés disso."
+  },
+  {
+    "card_id": 251,
+    "card_name": "Naked Narwhal",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/naked_narwhal.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, roube uma carta de unicórnio básico. Se esta carta deixar o seu estábulo, retorne a carta de unicórnio básico roubada para o seu dono."
+  },
+  {
+    "card_id": 252,
+    "card_name": "Officer Hornie",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/officer_hornie.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, escolha uma jogador e olhe a mão dele. Escolha uma carta de unicórnio da mão daquele jogador e a mova para a pilha de descartes."
+  },
+  {
+    "card_id": 253,
+    "card_name": "Polyamorous Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/polyamorous_unicorn.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode move-la para o estábulo de qualquer outro jogador. Se fizer isso, roube uma carta de unicórnio do estábulo daquele jogador."
+  },
+  {
+    "card_id": 254,
+    "card_name": "Sadomasocorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/sadomasocorn.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta. Se fizer isso, destrua uma carta de unicórnio."
+  },
+  {
+    "card_id": 255,
+    "card_name": "Semenbiscuit",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/semenbiscuit.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, sacrifique todas as cartas de maldição."
+  },
+  {
+    "card_id": 256,
+    "card_name": "Sextra-Terrestrial Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/sextra_terrestrial_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você pode retornar uma carta do estábulo de qualquer jogador para a mão dele."
+  },
+  {
+    "card_id": 257,
+    "card_name": "Straight But Curious Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/straight_but_curious_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você pode olhar as próximas três cartas do topo da pilha de descartes e então colocá-las de volta na mesma ordem."
+  },
+  {
+    "card_id": 258,
+    "card_name": "The Bitchies Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/the_bitchiest_unicorn.png",
+    "card_effect": "Esta carta somente pode entrar em um estábulo se lá existir uma carta de unicórnio básico. Se esta carta estiver no seu estábulo no início do seu turno, você pode escolher qualquer jogador. Aquele jogador DEVE descartar uma carta."
+  },
+  {
+    "card_id": 259,
+    "card_name": "Total Stud Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/total_stud_unicorn.png",
+    "card_effect": "Esta carta conta por dois unicórnios. Você não pode jogar cartas de unicórnio básico."
+  },
+  {
+    "card_id": 260,
+    "card_name": "Twinkicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/twinkicorn.png",
+    "card_effect": "Quando esta carta entra no seu estábulo, você pode procurar na pilha de compras por um \"Bear Daddy Unicorn\". Adicione-o na sua mão e então embaralhe a pilha de compras."
+  },
+  {
+    "card_id": 261,
+    "card_name": "Uncut Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/uncut_unicorn.png",
+    "card_effect": "Seu limite de cartas na mão aumenta em um."
+  },
+  {
+    "card_id": 262,
+    "card_name": "Unexpected Miracle Unicorn",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/unexpected_miracle_unicorn.png",
+    "card_effect": "Quando esta carta entra no seu tabuleiro, você PODE descartar uma carta. Se fizer isso, traga uma carta de unicórnio bebê da enfermaria diretamente para seu estábulo."
+  },
+  {
+    "card_id": 263,
+    "card_name": "Unicorn Cuckold",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/unicorn_cuckold.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, mova uma carta de unicórnio do seu estábulo para o de outro jogador. No fim do seu turno, volte aquela carta de unicórnio para o seu estábulo."
+  },
+  {
+    "card_id": 264,
+    "card_name": "Unicorn Dancer",
+    "card_type": "Unicórnio Mágico",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magical_unicorn/unicorn_dancer.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE comprar uma carta extra e então descartar uma carta."
+  },
+  {
+    "card_id": 265,
+    "card_name": "Baby Trap",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/baby_trap.png",
+    "card_effect": "Roube uma carta de unicórnio bebê."
+  },
+  {
+    "card_id": 266,
+    "card_name": "Blaze and Graze",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/blaze_and_graze.png",
+    "card_effect": "Revele a carta do topo do baralho. Se ela for uma carta de unicórnio, coloque-a no seu estábulo e jogue mais um turno. Se ela for uma carta de maldição, descarte-a e sacrifique uma carta de unicórnio. Se não for nenhum dessas casos, coloque-a na sua mão."
+  },
+  {
+    "card_id": 267,
+    "card_name": "Breaking and Entering",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/breaking_and_entering.png",
+    "card_effect": "Escolha qualquer outro jogador. Puxe duas cartas da mão daquele jogador e coloque-as na sua mão."
+  },
+  {
+    "card_id": 268,
+    "card_name": "Buck Naked",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/buck_naked.png",
+    "card_effect": "Sacrifique ou destrua todas as cartas de encantamento do estábulo de qualquer jogador."
+  },
+  {
+    "card_id": 269,
+    "card_name": "Fuck. Mary. Kill",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/fuck_mary_kill.png",
+    "card_effect": "Escolha qualquer jogador. Aquele jogador DEVE descartar uma carta. Dê para qualquer jogador uma carta da sua mão e então destrua uma carta de unicórnio."
+  },
+  {
+    "card_id": 270,
+    "card_name": "Hoof Job",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/hoof_job.png",
+    "card_effect": "Escolha qualquer jogador e olhe a mão dele. Escolha uma carta da mão daquele jogador e coloque-a na sua mão."
+  },
+  {
+    "card_id": 271,
+    "card_name": "Horrifying Impaling",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/horrifying_impaling.png",
+    "card_effect": "Destrua uma carta de unicórnio. Cada jogador DEVE descartar uma carta."
+  },
+  {
+    "card_id": 272,
+    "card_name": "Kink Shame",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/kink_shame.png",
+    "card_effect": "Sacrifique ou destrua uma carta de encantamento ou maldição."
+  },
+  {
+    "card_id": 273,
+    "card_name": "Make it Rain",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/make_it_rain.png",
+    "card_effect": "Descarte duas cartas e então compre duas cartas. Jogue mais um turno."
+  },
+  {
+    "card_id": 274,
+    "card_name": "Make it Snow",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/make_it_snow.png",
+    "card_effect": "Descarte sua mão e então compre três cartas. Jogue mais um turno."
+  },
+  {
+    "card_id": 275,
+    "card_name": "Rainbow Shitstorm",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/rainbow_shitstorm.png",
+    "card_effect": "Cada jogador DEVE sacrificar uma carta e descartar sua mão. Embaralhe a pilha de descartes junto com a pilha de compras. Distribua cinco cartas para cada jogador."
+  },
+  {
+    "card_id": 276,
+    "card_name": "Safe Sex",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/safe_sex.png",
+    "card_effect": "Cada jogador DEVE retornar uma carta de unicórnio bebê do seu estábulo para a enfermaria."
+  },
+  {
+    "card_id": 277,
+    "card_name": "Sex, Drugs, and Unicorns",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/sex_drugs_and_unicorns.png",
+    "card_effect": "Escolha um jogador. Aquele jogador DEVE descartar três cartas ou sacrificar uma carta de unicórnio."
+  },
+  {
+    "card_id": 278,
+    "card_name": "Unicorn Acid Trip",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/unicorn_acid_trip.png",
+    "card_effect": "Cada jogador DEVE descartar sua mão e comprar o mesmo número de cartas. Compre duas cartas adicionais."
+  },
+  {
+    "card_id": 279,
+    "card_name": "Unicorn Enema",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/unicorn_enema.png",
+    "card_effect": "Sacrifique ou destrua todas as cartas de maldição do estábulo de qualquer jogador."
+  },
+  {
+    "card_id": 280,
+    "card_name": "Unicorn Hangover",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/unicorn_hangover.png",
+    "card_effect": "Escolha qualquer jogador. Aquele jogador deverá pular o seu próximo turno."
+  },
+  {
+    "card_id": 281,
+    "card_name": "Unicorgy",
+    "card_type": "Mágica",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/magic/unicorgy.png",
+    "card_effect": "Se você tiver mais do que três unicórnios no seu estábulo, compre uma quantidade de cartas igual ao número de unicórnios no seu estábulo menos três."
+  },
+  {
+    "card_id": 282,
+    "card_name": "Hell Neigh!",
+    "card_type": "Instantânea",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/instant/hell_neigh.png",
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare imediatamente a ação daquele jogador e envie esta carta e a carta dele direto para a pilha de descartes."
+  },
+  {
+    "card_id": 283,
+    "card_name": "Neigh, Bitch!",
+    "card_type": "Instantânea",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/instant/neigh_bitch.png",
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare imediatamente a ação daquele jogador e envie esta carta e a carta dele direto para a pilha de descartes."
+  },
+  {
+    "card_id": 284,
+    "card_name": "Neigh, Motherfucker!",
+    "card_type": "Instantânea",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/instant/neigh_motherfucker.png",
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare imediatamente a ação daquele jogador e envie esta carta e a carta dele direto para a pilha de descartes. O jogador negado DEVE descartar uma carta."
+  },
+  {
+    "card_id": 285,
+    "card_name": "Neigh Means Neigh",
+    "card_type": "Instantânea",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/instant/neigh_means_neigh.png",
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare imediatamente a ação daquele jogador e envie esta carta e a carta dele direto para a pilha de descartes. Esta carta não pode ser negada."
+  },
+  {
+    "card_id": 286,
+    "card_name": "The Safeword is Neigh",
+    "card_type": "Instantânea",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/instant/the_safeword_is_neigh.png",
+    "card_effect": "Jogue esta carta quando qualquer outro jogador tentar jogar uma carta. Pare imediatamente a ação daquele jogador e envie esta carta e a carta dele direto para a pilha de descartes."
+  },
+  {
+    "card_id": 287,
+    "card_name": "Blow Up Unicorn",
+    "card_type": "Encantamento",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/upgrade/blow_up_unicorn.png",
+    "card_effect": "Se um dos seus unicórnios forem sacrificados ou destruídos, você PODE sacrificar esta carta ao invés disso."
+  },
+  {
+    "card_id": 288,
+    "card_name": "Dominatrix Whip",
+    "card_type": "Encantamento",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/upgrade/dominatrix_whip.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE mover uma carta de unicórnio do estábulo de qualquer jogador para o estábulo de qualquer outro. Você não pode mover unicórnios para o seu próprio estábulo."
+  },
+  {
+    "card_id": 289,
+    "card_name": "No Strings Attached",
+    "card_type": "Encantamento",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/upgrade/no_strings_attached.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE roubar uma carta de unicórnio. No fim do seu turno, retorne essa carta de unicórnio para o estábulo do jogador que você roubou."
+  },
+  {
+    "card_id": 290,
+    "card_name": "Pony Play",
+    "card_type": "Encantamento",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/upgrade/pony_play.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode escolher qualquer outro jogador. Pegue uma carta da mão do jogador escolhido e coloque-a na sua mão. Se você dizer isto, pule sua fase de compra."
+  },
+  {
+    "card_id": 291,
+    "card_name": "Putting on a Show",
+    "card_type": "Encantamento",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/upgrade/putting_on_a_show.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você PODE sacrificar uma carta. Se fizer isso, destrua uma carta."
+  },
+  {
+    "card_id": 292,
+    "card_name": "Unicorn Chastity Belt",
+    "card_type": "Encantamento",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/upgrade/unicorn_chastity_belt.png",
+    "card_effect": "Suas cartas de unicórnio não podem ser destruídas."
+  },
+  {
+    "card_id": 293,
+    "card_name": "Unicorn Dungeon",
+    "card_type": "Encantamento",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/upgrade/unicorn_dungeon.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, você pode jogar duas cartas durante sua fase de ação."
+  },
+  {
+    "card_id": 294,
+    "card_name": "Unicorn Speed",
+    "card_type": "Encantamento",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/upgrade/unicorn_speed.png",
+    "card_effect": "Esta carta somente pode entrar em um estábulo se lá existir uma carta de unicórnio básico. Se esta carta estiver no seu estábulo no início do seu turno, você PODE comprar uma carta extra."
+  },
+  {
+    "card_id": 295,
+    "card_name": "Unicorn Vibrator",
+    "card_type": "Encantamento",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/upgrade/unicorn_vibrator.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno. você PODE comprar uma carta no fim do seu turno."
+  },
+  {
+    "card_id": 296,
+    "card_name": "Unicorn with Benefits",
+    "card_type": "Encantamento",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/upgrade/unicorn_with_benefits.png",
+    "card_effect": "Esta carta somente pode entrar em um estábulo se lá existir uma carta de unicórnio básico. Se esta carta estiver no seu estábulo no início do seu turno, você pode colocar uma carta de unicórnio básico da sua mão diretamente no seu estábulo."
+  },
+  {
+    "card_id": 297,
+    "card_name": "Autoerotic Asphyxiation",
+    "card_type": "Maldição",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/downgrade/autoerotic_asphyxiation.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, descarte uma carta."
+  },
+  {
+    "card_id": 298,
+    "card_name": "Horse Shit",
+    "card_type": "Maldição",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/downgrade/horse_shit.png",
+    "card_effect": "Todas as suas cartas de unicórnio são consideradas cocô. Cartas que afetam cartas de unicórnio não afetam cocô."
+  },
+  {
+    "card_id": 299,
+    "card_name": "Limp Horn",
+    "card_type": "Maldição",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/downgrade/limp_horn.png",
+    "card_effect": "Você não pode jogar cartas de encantamento."
+  },
+  {
+    "card_id": 300,
+    "card_name": "Mid-sex Charlie Horse",
+    "card_type": "Maldição",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/downgrade/midsex_charlie_horse.png",
+    "card_effect": "Os efeitos das suas cartas de unicórnio não funcionam."
+  },
+  {
+    "card_id": 301,
+    "card_name": "Sticky Situation",
+    "card_type": "Maldição",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/downgrade/sticky_situation.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, pule sua fase de compra ou sua fase de ação."
+  },
+  {
+    "card_id": 302,
+    "card_name": "Unicorn Butt Plug",
+    "card_type": "Maldição",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/downgrade/unicorn_butt_plug.png",
+    "card_effect": "Seu limite de cartas na mão é três."
+  },
+  {
+    "card_id": 303,
+    "card_name": "Unicorn Flatulence",
+    "card_type": "Maldição",
+    "card_expansion": false,
+    "card_edition": "NSFW Base Deck",
+    "card_path": "/nsfw_base_deck/downgrade/unicorn_flatulence.png",
+    "card_effect": "Se esta carta estiver no seu estábulo no início do seu turno, retorne uma carta de unicórnio do seu estábulo para a sua mão. Se a qualquer momento você não tiver cartas de unicórnio no seu estábulo, sacrifique esta carta."
   }
 ]
